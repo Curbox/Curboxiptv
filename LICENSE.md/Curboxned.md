@@ -238,5 +238,4 @@ http://190.13.120.125/streams/tcm.m3u8
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1, ABC News (stream 2)
-#EXTM3U
-#EXTINF:0,https://cwengine1.cur.watch/direct/auto/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDE4IDY6MzA6MTYgUE0maGFzaF92YWx1ZT1vZHdYL1BlYittTTJZQklmWFd2azJnPT0mdmFsaWRtaW51dGVzPTE4MQ==
+
