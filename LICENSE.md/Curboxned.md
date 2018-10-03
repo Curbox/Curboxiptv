@@ -238,3 +238,4 @@ http://190.13.120.125/streams/tcm.m3u8
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1, ABC News (stream 2)
+#EXTINF:0,http://ats1.net:8000/get.php?username=8LYOpXZr3i&password=O31uU5luoJ&type=m3u
