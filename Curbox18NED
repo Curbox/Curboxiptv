@@ -167,4 +167,4 @@ http://190.13.120.125/streams/tcm.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1, ABC News (stream 2)
 #EXTINF:0,  DIRECT 13
-https://edge1.tvdirect13.com/live/playlist.m3u8
+https://cwengine1.cur.watch/direct/auto/playlist.m3u8
