@@ -169,13 +169,59 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0,  DIRECT 13
 https://cwengine1.cur.watch/direct/auto/playlist.m3u8
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-751382433.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-751382434.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-751382435.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-751382436.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-751382437.ts
+#EXTINF:-1,NL: Cartoon Network
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29974.ts
+#EXTINF:-1,NL: Comedy Central
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29983.ts
+#EXTINF:-1,NL: Disney Channel
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29975.ts
+#EXTINF:-1,NL: Film 1 Action
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29982.ts
+#EXTINF:-1,NL: Film 1 Drama
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29981.ts
+#EXTINF:-1,NL: Film 1 Premiere HD
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29984.ts
+#EXTINF:-1,NL: Fox
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29978.ts
+#EXTINF:-1,NL: Fox Sports 1 HD
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29973.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29972.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29971.ts
+#EXTINF:-1,NL: Fox Sports 4
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29970.ts
+#EXTINF:-1,NL: NET 5 HD
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29990.ts
+#EXTINF:-1,NL: Nickelodeon
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29976.ts
+#EXTINF:-1,NL: NPO 1
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29987.ts
+#EXTINF:-1,NL: NPO 2
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29986.ts
+#EXTINF:-1,NL: NPO 3
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29985.ts
+#EXTINF:-1,NL: RTL-4
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29994.ts
+#EXTINF:-1,NL: RTL-5
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29993.ts
+#EXTINF:-1,NL: RTL-7
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29992.ts
+#EXTINF:-1,NL: RTL-8
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29991.ts
+#EXTINF:-1,NL: SBS 6 HD
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29989.ts
+#EXTINF:-1,NL: SBS 9
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29988.ts
+#EXTINF:-1,NL: TLC HD
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29980.ts
+#EXTINF:-1,NL: Veronica XD
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29977.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD (720P)
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29979.ts
+#EXTINF:-1,NL: ELEVEN SPORTS 1
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/38230.ts
+#EXTINF:-1,NL: ELEVEN SPORTS 2
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/38229.ts
+#EXTINF:-1,NL: ELEVEN SPORTS 3
+http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/38228.ts
