@@ -168,7 +168,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1, ABC News (stream 2)
 #EXTINF:0,  DIRECT 13
 https://cwengine1.cur.watch/direct/auto/playlist.m3u8
-#EXTM3U
+
 #EXTINF:-1,Nl | 24 Kitchen
 http://sutverduz.com:8080/live/sinan25/sinan25/773.ts
 #EXTINF:-1,Nl | Comedy Central
