@@ -1,135 +1,170 @@
 #EXTM3U
-#EXTINF:-1,US: 360 North
-http://163.172.33.94:8000/live/adrem/adrem/1991.ts
-#EXTINF:-1,US: A &amp; E
-http://163.172.33.94:8000/live/adrem/adrem/1990.ts
-#EXTINF:-1,US: ABC News HD
-http://163.172.33.94:8000/live/adrem/adrem/1989.ts
-#EXTINF:-1,US: Animal Planet
-http://163.172.33.94:8000/live/adrem/adrem/1981.ts
-#EXTINF:-1,US: Beto TV
-http://163.172.33.94:8000/live/adrem/adrem/1979.ts
-#EXTINF:-1,US: Bloomberg
-http://163.172.33.94:8000/live/adrem/adrem/1978.ts
-#EXTINF:-1,US: Boston City TV
-http://163.172.33.94:8000/live/adrem/adrem/1977.ts
-#EXTINF:-1,US: Bravo HD
-http://163.172.33.94:8000/live/adrem/adrem/1976.ts
-#EXTINF:-1,US: CBS HD
-http://163.172.33.94:8000/live/adrem/adrem/1973.ts
-#EXTINF:-1,US: CBS News HD
-http://163.172.33.94:8000/live/adrem/adrem/1972.ts
-#EXTINF:-1,US: CBSN HD
-http://163.172.33.94:8000/live/adrem/adrem/1971.ts
-#EXTINF:-1,US: CNBC
-http://163.172.33.94:8000/live/adrem/adrem/1970.ts
-#EXTINF:-1,US: CNBS HD
-http://163.172.33.94:8000/live/adrem/adrem/1969.ts
-#EXTINF:-1,US: CNN HD
-http://163.172.33.94:8000/live/adrem/adrem/1968.ts
-#EXTINF:-1,US: Comedy Central HD
-http://163.172.33.94:8000/live/adrem/adrem/1967.ts
-#EXTINF:-1,US: Cpac
-http://163.172.33.94:8000/live/adrem/adrem/1966.ts
-#EXTINF:-1,US: E!
-http://163.172.33.94:8000/live/adrem/adrem/1965.ts
-#EXTINF:-1,US: ESPN HD
-http://163.172.33.94:8000/live/adrem/adrem/1964.ts
-#EXTINF:-1,US: Fight Network
-http://163.172.33.94:8000/live/adrem/adrem/1963.ts
-#EXTINF:-1,US: Food Network
-http://163.172.33.94:8000/live/adrem/adrem/1962.ts
-#EXTINF:-1,US: FX HD
-http://163.172.33.94:8000/live/adrem/adrem/1958.ts
-#EXTINF:-1,US: Global TV BC
-http://163.172.33.94:8000/live/adrem/adrem/1957.ts
-#EXTINF:-1,US: Global TV Halifax
-http://163.172.33.94:8000/live/adrem/adrem/1956.ts
-#EXTINF:-1,US: Global TV Toronto
-http://163.172.33.94:8000/live/adrem/adrem/1955.ts
-#EXTINF:-1,US: H2
-http://163.172.33.94:8000/live/adrem/adrem/1954.ts
-#EXTINF:-1,US: HGTV
-http://163.172.33.94:8000/live/adrem/adrem/1947.ts
-#EXTINF:-1,US: HIFI
-http://163.172.33.94:8000/live/adrem/adrem/1946.ts
-#EXTINF:-1,US: HSN 1
-http://163.172.33.94:8000/live/adrem/adrem/1945.ts
-#EXTINF:-1,US: HSN 2
-http://163.172.33.94:8000/live/adrem/adrem/1944.ts
-#EXTINF:-1,US: KTVU News
-http://163.172.33.94:8000/live/adrem/adrem/1943.ts
-#EXTINF:-1,US: LIFETIME HD
-http://163.172.33.94:8000/live/adrem/adrem/1942.ts
-#EXTINF:-1,US: Max West
-http://163.172.33.94:8000/live/adrem/adrem/1941.ts
-#EXTINF:-1,US: Mello TV
-http://163.172.33.94:8000/live/adrem/adrem/1940.ts
-#EXTINF:-1,US: Miami TV
-http://163.172.33.94:8000/live/adrem/adrem/1939.ts
-#EXTINF:-1,US: Motor Sports 7 HD
-http://163.172.33.94:8000/live/adrem/adrem/1938.ts
-#EXTINF:-1,US: Mute TV
-http://163.172.33.94:8000/live/adrem/adrem/1937.ts
-#EXTINF:-1,US: Nasa TV HD
-http://163.172.33.94:8000/live/adrem/adrem/1936.ts
-#EXTINF:-1,US: National Geographic HD
-http://163.172.33.94:8000/live/adrem/adrem/1935.ts
-#EXTINF:-1,US: NBA HD
-http://163.172.33.94:8000/live/adrem/adrem/1934.ts
-#EXTINF:-1,US: NBC Golf HD
-http://163.172.33.94:8000/live/adrem/adrem/1933.ts
-#EXTINF:-1,US: NBC HD
-http://163.172.33.94:8000/live/adrem/adrem/1932.ts
-#EXTINF:-1,US: News 12
-http://163.172.33.94:8000/live/adrem/adrem/1931.ts
-#EXTINF:-1,US: Nickelodeon HD
-http://163.172.33.94:8000/live/adrem/adrem/1930.ts
-#EXTINF:-1,US: PAG HD
-http://163.172.33.94:8000/live/adrem/adrem/1928.ts
-#EXTINF:-1,US: PBS HD
-http://163.172.33.94:8000/live/adrem/adrem/1927.ts
-#EXTINF:-1,US: Pocker Central
-http://163.172.33.94:8000/live/adrem/adrem/1926.ts
-#EXTINF:-1,US: Redbull TV
-http://163.172.33.94:8000/live/adrem/adrem/1925.ts
-#EXTINF:-1,US: RT America HD
-http://163.172.33.94:8000/live/adrem/adrem/1924.ts
-#EXTINF:-1,US: RT Documentary
-http://163.172.33.94:8000/live/adrem/adrem/1923.ts
-#EXTINF:-1,US: TBS HD
-http://163.172.33.94:8000/live/adrem/adrem/1917.ts
-#EXTINF:-1,US: Tech Channel
-http://163.172.33.94:8000/live/adrem/adrem/1916.ts
-#EXTINF:-1,US: Ten Cricket
-http://163.172.33.94:8000/live/adrem/adrem/1915.ts
-#EXTINF:-1,US: The Florida Channel
-http://163.172.33.94:8000/live/adrem/adrem/1914.ts
-#EXTINF:-1,US: TLC
-http://163.172.33.94:8000/live/adrem/adrem/1913.ts
-#EXTINF:-1,US: TNT HD
-http://163.172.33.94:8000/live/adrem/adrem/1912.ts
-#EXTINF:-1,US: Toonami Aftermath
-http://163.172.33.94:8000/live/adrem/adrem/1911.ts
-#EXTINF:-1,US: TSC
-http://163.172.33.94:8000/live/adrem/adrem/1910.ts
-#EXTINF:-1,US: TV Land
-http://163.172.33.94:8000/live/adrem/adrem/1909.ts
-#EXTINF:-1,US: UC TV
-http://163.172.33.94:8000/live/adrem/adrem/1908.ts
-#EXTINF:-1,US: USA Network
-http://163.172.33.94:8000/live/adrem/adrem/1907.ts
-#EXTINF:-1,US: Versus NBA HD
-http://163.172.33.94:8000/live/adrem/adrem/1906.ts
-#EXTINF:-1,US: WE TV
-http://163.172.33.94:8000/live/adrem/adrem/1905.ts
-#EXTINF:-1,US: Weather Channel
-http://163.172.33.94:8000/live/adrem/adrem/1904.ts
-#EXTINF:-1,US: WGN News Chicago
-http://163.172.33.94:8000/live/adrem/adrem/1903.ts
-#EXTINF:-1,US: Willow Cricket HD
-http://163.172.33.94:8000/live/adrem/adrem/1902.ts
-#EXTINF:-1,US: World Fashion HD
-http://163.172.33.94:8000/live/adrem/adrem/1901.ts
-#EXTINF:-1,US: WXYZ TV
-http://163.172.33.94:8000/live/adrem/adrem/1900.ts
+#EXTINF:0,TELEMUNDO 39
+https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
+#EXTINF:0,Estrella TV
+https://video05-lax.streamup.com/app/vic_manz02s-stream/playlist.m3u8
+#EXTINF:0,Vevo TV 1 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8 
+#EXTINF:0,Vevo TV 2 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8 
+#EXTINF:0,Vevo TV 3 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1, CBA
+http://190.13.120.111/streams/cba.m3u8
+#EXTINF:-1, HitTv
+http://190.13.120.111/streams/hittv.m3u8
+#EXTINF:-1, NL1
+http://190.13.120.111/streams/nederland1.m3u8
+#EXTINF:-1, Rtns
+http://190.13.120.111/streams/rtns.m3u8
+#EXTINF:-1, Telecuracao1
+http://190.13.120.111/streams/telecuracao1.m3u8
+#EXTINF:-1, TCFM
+http://190.13.120.111/streams/telecuracaofm.m3u8
+#EXTINF:-1, BVN
+http://190.13.120.112/streams/bvn.m3u8
+#EXTINF:-1, DIY
+http://190.13.120.112/streams/diy.m3u8
+#EXTINF:-1, Food
+http://190.13.120.112/streams/food.m3u8
+#EXTINF:-1, NL2
+http://190.13.120.112/streams/nederland2.m3u8
+#EXTINF:-1, NL3
+http://190.13.120.112/streams/nederland3.m3u8
+#EXTINF:-1, A&E
+http://190.13.120.113/streams/ae.m3u8
+#EXTINF:-1, Biography
+http://190.13.120.113/streams/biography.m3u8
+#EXTINF:-1, HGTV
+http://190.13.120.113/streams/hgtv.m3u8
+#EXTINF:-1, History
+http://190.13.120.113/streams/history.m3u8
+#EXTINF:-1, Style
+http://190.13.120.113/streams/style.m3u8
+#EXTINF:-1, Syfy
+http://190.13.120.113/streams/syfy.m3u8
+#EXTINF:-1, Babytv
+http://190.13.120.114/streams/babytv.m3u8
+#EXTINF:-1, BBCAmerica
+http://190.13.120.114/streams/bbcamerica.m3u8
+#EXTINF:-1, BBCWord
+http://190.13.120.114/streams/bbcworld.m3u8
+#EXTINF:-1, FX
+http://190.13.120.114/streams/fx.m3u8
+#EXTINF:-1, TNT
+http://190.13.120.114/streams/tnt.m3u8
+#EXTINF:-1, DisneyPH
+http://190.13.120.115/streams/disneyph.m3u8
+#EXTINF:-1, DisneyXD
+http://190.13.120.115/streams/disneyxd.m3u8
+#EXTINF:-1, NBC
+http://190.13.120.115/streams/nbc.m3u8
+#EXTINF:-1, Outdoor Channel
+http://190.13.120.115/streams/outdoor.m3u8
+#EXTINF:-1, TBS
+http://190.13.120.115/streams/tbs.m3u8
+#EXTINF:-1, Animal Planet
+http://190.13.120.116/streams/animal.m3u8
+#EXTINF:-1, Boomerang
+http://190.13.120.116/streams/boomerang.m3u8
+#EXTINF:-1, Cartoon Network
+http://190.13.120.116/streams/cartoon.m3u8
+#EXTINF:-1, Discovery
+http://190.13.120.116/streams/discovery.m3u8
+#EXTINF:-1, Discovery Kids
+http://190.13.120.116/streams/discoverykids.m3u8
+#EXTINF:-1, ToonCast
+http://190.13.120.116/streams/tooncast.m3u8
+#EXTINF:-1, Discovery Civilization
+http://190.13.120.117/streams/discoverycivilization.m3u8
+#EXTINF:-1, Discovery Home
+http://190.13.120.117/streams/discoveryhome.m3u8
+#EXTINF:-1, Discovery Science
+http://190.13.120.117/streams/discoveryscience.m3u8
+#EXTINF:-1, G4
+http://190.13.120.117/streams/g4.m3u8
+#EXTINF:-1, Much Music
+http://190.13.120.117/streams/muchmusic.m3u8
+#EXTINF:-1, National Geographic
+http://190.13.120.117/streams/natgeo.m3u8
+#EXTINF:-1, AXN
+http://190.13.120.118/streams/axn.m3u8
+#EXTINF:-1, CNN
+http://190.13.120.118/streams/cnn.m3u8
+#EXTINF:-1, CNN Espanol
+http://190.13.120.118/streams/cnnespanol.m3u8
+#EXTINF:-1, TruTV
+http://190.13.120.118/streams/trutv.m3u8
+#EXTINF:-1, Universal
+http://190.13.120.118/streams/universal.m3u8
+#EXTINF:-1, Warner Channel
+http://190.13.120.118/streams/warnerchannel.m3u8
+#EXTINF:-1, Glitz
+http://190.13.120.119/streams/glitz.m3u8
+#EXTINF:-1, Liv
+http://190.13.120.119/streams/liv.m3u8
+#EXTINF:-1, PIX
+http://190.13.120.119/streams/pix.m3u8
+#EXTINF:-1, Sony
+http://190.13.120.119/streams/sonyspin.m3u8
+#EXTINF:-1, Space
+http://190.13.120.119/streams/space.m3u8
+#EXTINF:-1, Canal Fox
+http://190.13.120.120/streams/canalfox.m3u8
+#EXTINF:-1, Cine Canal
+http://190.13.120.120/streams/cinecanal.m3u8
+#EXTINF:-1, Discovery Travel
+http://190.13.120.120/streams/discoverytravel.m3u8
+#EXTINF:-1, Infinito
+http://190.13.120.120/streams/infinito.m3u8
+#EXTINF:-1, ISAT
+http://190.13.120.120/streams/isat.m3u8
+#EXTINF:-1, TFZ
+http://190.13.120.120/streams/tfz.m3u8
+#EXTINF:-1, ABC-HD
+http://190.13.120.121/streams/abc-hd.m3u8
+#EXTINF:-1, ESPN Caribbean
+http://190.13.120.121/streams/espncaribbean.m3u8
+#EXTINF:-1, Studio Universal
+http://190.13.120.121/streams/studiouniversal.m3u8
+#EXTINF:-1, CBS-HD
+http://190.13.120.122/streams/cbs-hd.m3u8
+#EXTINF:-1, FOX-HD
+http://190.13.120.122/streams/fox-hd.m3u8
+#EXTINF:-1, Discovery Turbo
+http://190.13.120.123/streams/discoveryturbo.m3u8
+#EXTINF:-1, ESPN2
+http://190.13.120.123/streams/espn2.m3u8
+#EXTINF:-1, ESPN2 Caribbean
+http://190.13.120.123/streams/espn2caribbean.m3u8
+#EXTINF:-1, FOX Soccer
+http://190.13.120.123/streams/foxsoccer.m3u8
+#EXTINF:-1, SPEED
+http://190.13.120.123/streams/speed.m3u8
+#EXTINF:-1, Euro Sport1
+http://190.13.120.124/streams/eurosport1.m3u8
+#EXTINF:-1, Euro Sport2
+http://190.13.120.124/streams/eurosport2.m3u8
+#EXTINF:-1, Fox Deportes
+http://190.13.120.124/streams/foxdeportes.m3u8
+#EXTINF:-1, Golf-SD
+http://190.13.120.124/streams/golf-sd.m3u8
+#EXTINF:-1, Sony
+http://190.13.120.124/streams/sony.m3u8
+#EXTINF:-1, Bloomberg
+http://190.13.120.125/streams/bloomberg.m3u8
+#EXTINF:-1, CNN HLN
+http://190.13.120.125/streams/cnnhln.m3u8
+#EXTINF:-1, CNN International
+http://190.13.120.125/streams/cnnint.m3u8
+#EXTINF:-1, FOX Businness
+http://190.13.120.125/streams/foxbusiness.m3u8
+#EXTINF:-1, FOX News
+http://190.13.120.125/streams/foxnews.m3u8
+#EXTINF:-1, TCM
+http://190.13.120.125/streams/tcm.m3u8
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1, ABC News (stream 2)
+#EXTINF:0,  DIRECT 13
+https://cwengine1.cur.watch/direct/auto/playlist.m3u8
