@@ -166,3 +166,6 @@ http://190.13.120.125/streams/tcm.m3u8
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1, ABC News (stream 2)
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+playlist_720p.m3u8
