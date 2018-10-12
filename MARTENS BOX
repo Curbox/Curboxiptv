@@ -70,7 +70,6 @@ http://198.251.90.116:1958/live/uygun01/01uygun/9001.ts
 #EXTINF:-1,Nl | Omroep Gelderland
 http://198.251.90.116:1958/live/uygun01/01uygun/9000.ts
 .
-#EXTM3U
 #EXTINF:0,FR: BEINSPORTS_1_HD
 http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/761.ts
 #EXTINF:0,FR: BEINSPORTS_2_HD
