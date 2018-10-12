@@ -1,417 +1,1013 @@
 #EXTM3U
-#EXTINF:-1,Fox
-http://190.57.234.165/V5/3/1.m3u8
-#EXTINF:-1,Warner Channel
-http://23.237.22.2:8080/lstream4/400/10/787f871133435e47a2e14ab464387153/205.flv
-#EXTINF:-1,FX
-http://23.237.22.2:8080/lstream4/398/10/787f871133435e47a2e14ab464387153/209.flv
-#EXTINF:-1,Universal Channel
-http://190.57.234.164/V9/4/1.m3u8
-#EXTINF:-1,Canal Sony
-http://23.237.22.2:8080/lstream4/396/10/787f871133435e47a2e14ab464387153/203.flv
-#EXTINF:-1,AXN
-http://23.237.22.2:8080/lstream4/404/10/787f871133435e47a2e14ab464387153/213.flv
-#EXTINF:-1,A&E
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/211.flv
-#EXTINF:-1,Comedy Central
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/217.flv
-#EXTINF:-1,TBS
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
-#EXTINF:-1,Distrito Comedia
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/272.flv
-#EXTINF:-1,TNT Series
-http://23.237.22.2:8080/lstream4/469/10/787f871133435e47a2e14ab464387153/266.flv
-#EXTINF:-1,Fox Life
-http://23.237.22.2:8080/lstream4/436/10/787f871133435e47a2e14ab464387153/271.flv
-#EXTINF:-1,Mundo Fox
-http://190.57.234.164/V0/4/1.m3u8
-#EXTINF:-1,MTV
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/726.flv
-#EXTINF:-1,E!
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/255.flv
-#EXTINF:-1,Más Chic
-http://188.250.214.28:8889/play/a04t/index.m3u8
-#EXTINF:-1,Fashion TV
-http://prepublish.f.qaotic.net/a06/ngrp:ftv_live01-100083_all/chunklist_b1596000.m3u8
-#EXTINF:-1,Glitz
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/270.flv
-#EXTINF:-1,Tlnovelas
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/275.flv
-#EXTINF:-1,Tru TV
-http://23.237.22.2:8080/lstream4/431/16/654681644949e1a53be8493e2112723e/215.flv
-#EXTINF:-1,Investigation Discovery
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/263.flv
-#EXTINF:-1,Discovery Home & Health
-http://190.57.234.164/V1/6/1.m3u8
-#EXTINF:-1,Lifetime
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/379.flv
-#EXTINF:-1,El Gourmet
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/268.flv
-#EXTINF:-1,Canal Cocina
-http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
-#EXTINF:-1,Cine AR
-http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0http://ar.watcha.live/ch17/hi.m3u8
-#EXTINF:-1,Cinemax
-http://23.237.22.2:8080/lstream4/401/10/787f871133435e47a2e14ab464387153/481.flv
-#EXTINF:-1,Cinecanal
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/430.flv
-#EXTINF:-1,TNT
-http://23.237.22.2:8080/lstream4/77/10/787f871133435e47a2e14ab464387153/435.flv
-#EXTINF:-1,Space
-http://23.237.22.2:8080/lstream4/402/10/787f871133435e47a2e14ab464387153/445.flv
-#EXTINF:-1,Paramount Channel
-http://190.57.234.164/V6/8/1.m3u8
-#EXTINF:-1,Studio Universal
-http://23.237.22.2:8080/lstream4/473/10/787f871133435e47a2e14ab464387153/492.flv
-#EXTINF:-1,SyFy
-http://23.237.22.2:8080/lstream4/433/10/787f871133435e47a2e14ab464387153/257.flv
-#EXTINF:-1,The Film Zone
-http://23.237.22.2:8080/lstream/452/10/787f871133435e47a2e14ab464387153/FilmZoneLASD.flv
-#EXTINF:-1,Golden
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
-#EXTINF:-1,Golden Edge
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/484.flv
-#EXTINF:-1,AMC
-http://23.237.22.2:8080/lstream4/526/10/787f871133435e47a2e14ab464387153/444.flv
-#EXTINF:-1,Isat
-http://23.237.22.2:8080/lstream4/460/10/787f871133435e47a2e14ab464387153/495.flv
-#EXTINF:-1,TCM
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/496.flv
-#EXTINF:-1,Fox Action
-http://23.237.22.2:8080/lstream4/449/10/787f871133435e47a2e14ab464387153/416.flv
-#EXTINF:-1,Fox Movies
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/417.flv
-#EXTINF:-1,Fox Cinema
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/421.flv
-#EXTINF:-1,Fox Series
-http://23.237.22.2:8080/lstream4/389/10/787f871133435e47a2e14ab464387153/415.flv
-#EXTINF:-1,Fox Classics
-http://190.57.234.164/V0/7/1.m3u8
-#EXTINF:-1,Max Prime
-http://190.57.234.164/V9/6/1.m3u8
-#EXTINF:-1,Max Up
-http://190.57.234.164/V6/9/1.m3u8
-#EXTINF:-1,HBO
-http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe625/5900bc02970b1071e240b0cb/_/hbo_latino_hd.flv
-#EXTINF:-1,HBO 2
-http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe649/5900bc02970b1071e240b0cb/_/hbo_2.flv
-#EXTINF:-1,HBO Plus
-http://190.57.234.164/V9/5/1.m3u8
-#EXTINF:-1,HBO Family
-http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe624/5900bc02970b1071e240b0cb/_/hbo_family.flv
-#EXTINF:-1,History
-https://live14.userapi.com/637609/live/uK7viRRAfwg_cXce/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://23.237.22.2:8080/lstream4/92/16/654681644949e1a53be8493e2112723e/371.flv
-#EXTINF:-1,Discovery Theater
-http://190.57.234.164/V1/5/1.m3u8
-#EXTINF:-1,Discovery Civilization
-http://190.57.234.164/V0/2/1.m3u8
-#EXTINF:-1,Discovery Science
-http://190.57.234.164/V0/3/1.m3u8
-#EXTINF:-1,Discovery World
-http://190.57.234.164/V1/4/1.m3u8
-#EXTINF:-1,Discovery Turbo
-http://190.57.234.164/V0/1/1.m3u8
-#EXTINF:-1,National Geographic
-http://23.237.22.2:8080/lstream4/429/16/654681644949e1a53be8493e2112723e/377.flv
-#EXTINF:-1,Nat Geo Wild
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/355.flv
-#EXTINF:-1,Animal Planet
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
-#EXTINF:-1,Animal Planet USA
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TLC
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/386.flv
-#EXTINF:-1,Nasa TV
-https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
-#EXTINF:-1,Sun Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
-#EXTINF:-1,Radio ONE TV
-http://190.57.234.165/V2/2/1.m3u8
-#EXTINF:-1,Rock&Pop
-http://190.57.234.165/V2/3/1.m3u8
-#EXTINF:-1,Power
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w668249396.m3u8
-#EXTINF:-1,Cool
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-#EXTINF:-1,Rock Nacional TV
-http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
-#EXTINF:-1,Djing
-http://www.djing.com/tv/i-05.m3u8
-#EXTINF:-1,Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Mi Musica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-#EXTINF:-1,Quiero Musica
-mms://200.42.92.6:1755/qmusica
-#EXTINF:-1,VH1
-http://23.237.22.2:8080/lstream4/90/11/654681644949e1a53be8493e2112723e/703.flv
-#EXTINF:-1,VH1 Mega Hits
-http://190.57.234.164/V6/5/1.m3u8
-#EXTINF:-1,VH1 Classics
-http://190.57.234.164/V0/6/1.m3u8
-#EXTINF:-1,MTV Dance
-http://190.57.234.164/V6/4/1.m3u8
-#EXTINF:-1,MTV Hits
-http://190.57.234.164/V6/3/1.m3u8
-#EXTINF:-1,MTV Live
-http://190.57.234.164/V6/7/1.m3u8
-#EXTINF:-1,MTV España
-http-referrer=http://tumarcador.xyz
-#EXTINF:-1,Ritmoson
-http://23.237.22.2:8080/lstream4/578/11/654681644949e1a53be8493e2112723e/731.flv
-#EXTINF:-1,Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1,Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,1HD Music
-http://80.250.191.10:1935/live/hlsstream343/chunklist_w69624695.m3u8
-#EXTINF:-1,Hit TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
-#EXTINF:-1,Telemúsica
-http://186.155.200.118:1935/live/telemusica/livestream.m3u8
-#EXTINF:-1,Virgin TV
-http://wow01.105.net/live/virgin1/chunklist.m3u8
-#EXTINF:-1,Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
-#EXTINF:-1,Vibee
-http://46.101.21.42:8081/live/live2/playlist.m3u8
-#EXTINF:-1,Capital TV Music
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1,Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://23.237.22.2:8080/lstream4/106/14/654681644949e1a53be8493e2112723e/320.flv
-#EXTINF:-1,Tooncast
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/328.flv
-#EXTINF:-1,Boomerang
-http://23.237.22.2:8080/lstream4/440/14/654681644949e1a53be8493e2112723e/324.flv
-#EXTINF:-1,Nick
-http://23.237.22.2:8080/lstream4/105/14/654681644949e1a53be8493e2112723e/317.flv
-#EXTINF:-1,Nick 2
-http://190.57.234.164/V3/3/1.m3u8
-#EXTINF:-1,Nick Toons
-http://190.57.234.164/V6/1/1.m3u8
-#EXTINF:-1,Nick Jr
-http://190.57.234.164/V6/2/1.m3u8
-#EXTINF:-1,Disney Channel
-http://23.237.22.2:8080/lstream4/104/14/654681644949e1a53be8493e2112723e/312.flv
-#EXTINF:-1,Disney XD
-http://23.237.22.2:8080/lstream4/107/14/654681644949e1a53be8493e2112723e/322.flv
-#EXTINF:-1,Discovery Kids
-http://190.57.234.164/V1/3/1.m3u8
-#EXTINF:-1,Disney Junior
-http://190.57.234.164/V9/1/1.m3u8
-#EXTINF:-1,Tiin
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/325.flv
-#EXTINF:-1,Paka Paka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-#EXTINF:-1,Tateti
-http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0http://ar.watcha.live/ch16/hi.m3u8
-#EXTINF:-1,Los Simpsons 24hs
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Los Simpsons Random MP4
-http://stream.latino-webtv.com/series/simpsons.mp4
-#EXTINF:-1,Gravity Falls Random MP4
-http://stream.latino-webtv.com/series/gravityfalls.mp4
-#EXTINF:-1,Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1,Canal LUZ
-http://prepublish.f.qaotic.net/f01/ngrp:canal_luz01-100009_all/chunklist_b1692000.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Orbe 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1,Enlace
-http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,EWTN
-http://ewtn.mpl.miisolutions.net:80/ewtn-live-4/900.mp4/livestream.m3u8
-#EXTINF:-1,DW Español
-http://190.57.234.164/V9/3/1.m3u8
-#EXTINF:-1,Telesur
-http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1,Wobi
-http://190.57.234.164/V9/7/1.m3u8
-#EXTINF:-1,TLT
-http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
-#EXTINF:-1,NTN24 (YouTube)
-https://www.youtube.com/watch?v=z8vQPtsALjk
-#EXTINF:-1,Globovisión (YouTube)
-https://www.youtube.com/watch?v=RjRaxsrchYc
-#EXTINF:-1,NIU
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u
-#EXTINF:-1,CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1,Chilevisión
-http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8
-#EXTINF:-1,VTV Chile
-http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u
-#EXTINF:-1,CNN Español (YouTube)
-https://www.youtube.com/watch?v=plmXA0fyPCQ
-#EXTINF:-1,24 Horas Chile
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:-1,Megavisión
-http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
-#EXTINF:-1,UESTV
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u
-#EXTINF:-1,El Pinguino
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-#EXTINF:-1,Canal Claro
-http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
-#EXTINF:-1,Teletrak
-http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w659032724_b750000_slesp.m3u8
-#EXTINF:-1,TV Perú
-http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,México Travel
-http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,TC
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:-1,TVes
-rtmp://cast.streamingconnect.tv/tves2/tves2
-#EXTINF:-1,Telecafé
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
-#EXTINF:-1,Señal Colombia
-http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Canal Tr3ce Colombia
-http://live.iaia.stream/canal13live/smil:live.smil/chunklist_b500000.m3u8
-#EXTINF:-1,Cosmovisión
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_2.m3u8
-#EXTINF:-1,Panamericana
-https://cdnh15.iblups.com/hls/ptv.m3u8
-#EXTINF:-1,Telemundo
-http-referrer=http://tumarcador.xyz
-#EXTINF:-1,Cable Noticias
-http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,RCN
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
-#EXTINF:-1,Caracol
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
-#EXTINF:-1,Latina
-https://live11.userapi.com/510501/live/ySZn-LhAf6Q/playlist.m3u8
-#EXTINF:-1,América
-https://live2.userapi.com/637610/live/yDl4-SlAfzXkzWYC/playlist.m3u8
-#EXTINF:-1,El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,CB24
-http://ipointcablertmp.tulix.tv:1935/admin24/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Multimedios
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,TV Más
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u
-#EXTINF:-1,TV Azteca
-http://cdn2.shurs.xyz/verliga/9/playlist.m3u8
-#EXTINF:-1,Azteca Trece
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1,Teleantioquia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
-#EXTINF:-1,Canal Antiestrés
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,V Más TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
-#EXTINF:-1,Unicanal
-http://strm.unicanal.com.py/live/unicanal_src.m3u8
-#EXTINF:-1,Canal 13 Paraguay
-http://70.36.100.38:1935/live/_definst_/canal13_lq.stream/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Globo TV Honduras
-http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
-#EXTINF:-1,RT Español
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
-#EXTINF:-1,Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1,RTVE
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_lv3_aosv4_gl8/24h_lv3_aosv4_gl8.isml/24h_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8
-#EXTINF:-1,Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
-#EXTINF:-1,Telemadrid
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
-#EXTINF:-1,Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Life TV
-http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
-#EXTINF:-1,24H
-http://190.57.234.164/V4/4/1.m3u8
-#EXTINF:-1,La 1
-http-referrer=http://tumarcador.xyz
-#EXTINF:-1,La 2
-http-referrer=http://tumarcador.xyz
-#EXTINF:-1,Telecinco
-http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8
-#EXTINF:-1,Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Hispantv
-http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
-#EXTINF:-1,Las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1296_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Efekto TV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:-1,TV5Monde Latino
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1,France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Euronews Español
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/24-live.m3u8
-#EXTINF:-1,RAI News 24
-http://b2everyrai-lh.akamaihd.net:80/i/rainews_1@179616/index_1200_av-b.m3u8
-#EXTINF:-1,RAI Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1,Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,NHK World
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1,Channel News Asia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1,Press TV
-http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
-#EXTINF:-1,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Newsmax TV
-http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
-#EXTINF:-1,C-Span
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,C-Span 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
-#EXTINF:-1,C-Span 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
-#EXTINF:-1,Fox 23 News
-http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
-#EXTINF:-1,Fox 25 News
-http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
-#EXTINF:-1,Fox 30 News
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1,BBC World News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,RT Documentary
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
-#EXTINF:-1,Twit
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Earth TV
-http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
-#EXTINF:-1,Playboy TV
-http-referrer=http://tumarcador.xyz
-#EXTINF:-1,Venus
-http-referrer=http://tumarcador.xyz
-#EXTINF:-1,Hustler TV
-http-referrer=http://tumarcador.xyz
+#EXTINF:0,FR: TF1_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/596.ts
+#EXTINF:0,FR: TF1 Films Series HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/2480.ts
+#EXTINF:0,FR: TFX
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/955.ts
+#EXTINF:0,FR: W9 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/952.ts
+#EXTINF:0,FR: M6_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/595.ts
+#EXTINF:0,FR: RTL9_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/590.ts
+#EXTINF:0,FR: LCI HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/954.ts
+#EXTINF:0,FR: France_2HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/594.ts
+#EXTINF:0,FR: France_3HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/593.ts
+#EXTINF:0,FR: France_4HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/592.ts
+#EXTINF:0,FR: France 5HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/591.ts
+#EXTINF:0,FR FRANCE O
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1054.ts
+#EXTINF:0,FR: TMC
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1056.ts
+#EXTINF:0,FR: TV5_Monde
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/570.ts
+#EXTINF:0,FR: NRJ 12 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/956.ts
+#EXTINF:0,FR: TRACE URBAN
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1097.ts
+#EXTINF:0,FR: CANAL + CINEMA
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/733.ts
+#EXTINF:0,FR: CANAL DECALE_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/735.ts
+#EXTINF:0,FR: CANAL FAMILY_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/737.ts
+#EXTINF:0,FR: Canal_Cinema_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/586.ts
+#EXTINF:0,FR: CANAL SPORT
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/739.ts
+#EXTINF:0,FR: CANAL_J
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/731.ts
+#EXTINF:0,FR: CARTOON_NETWORK
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/740.ts
+#EXTINF:0,FR: CHASSE_PECHE
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/741.ts
+#EXTINF:0,FR: CHERIE_25
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/742.ts
+#EXTINF:0,FR: CINE_POLAR
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/745.ts
+#EXTINF:0,FR: Animaux_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/576.ts
+#EXTINF:0,FR: Bfm_TV
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/573.ts
+#EXTINF:0,FR: C8_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/589.ts
+#EXTINF:0,FR: Canal_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/587.ts
+#EXTINF:0,FR: Canal_Series_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/584.ts
+#EXTINF:0,FR: Cine_Classic_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/580.ts
+#EXTINF:0,FR: Cine_Emotion_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/579.ts
+#EXTINF:0,FR: Cine_Famiz_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/578.ts
+#EXTINF:0,FR: Cine_Frisson_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/581.ts
+#EXTINF:0,FR: Cine_Premier_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/582.ts
+#EXTINF:0,FR: OCS CHOC HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1061.ts
+#EXTINF:0,FR: OCS CITY
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1062.ts
+#EXTINF:0,FR: OCS GEANT
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1063.ts
+#EXTINF:0,FR: BEINSPORTS_1_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/761.ts
+#EXTINF:0,FR: BEINSPORTS_2_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/762.ts
+#EXTINF:0,FR: BEINSPORT_3_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/763.ts
+#EXTINF:0,FR: BEINSPORT MAX 4
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1099.ts
+#EXTINF:0,FR: BEINSPORT MAX 5
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1100.ts
+#EXTINF:0,FR: BEINSPORT MAX 6
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1101.ts
+#EXTINF:0,FR: SFR SPORT 1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1094.ts
+#EXTINF:0,FR: SFR SPORT 2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1095.ts
+#EXTINF:0,FR: SFR SPORT 3
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1096.ts
+#EXTINF:0,FR: FOOT 24/24
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/760.ts
+#EXTINF:0,FR: Ushuaia_HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/577.ts
+#EXTINF:0,FR: COMEDIE+ HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/750.ts
+#EXTINF:0,FR: National Geographic
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3009.ts
+#EXTINF:0,FR: DISCOVERY
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/752.ts
+#EXTINF:0,FR: DISCOVERY-SCIENCE
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/753.ts
+#EXTINF:0,FR: DISNEY_CINEMA
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/755.ts
+#EXTINF:0,FR: DISNEY_XD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/756.ts
+#EXTINF:0,FR: BOX_OFFICE.1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/706.ts
+#EXTINF:0,FR: BOX_OFFICE.10
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/707.ts
+#EXTINF:0,FR: BOX_OFFICE.2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/717.ts
+#EXTINF:0,FR: BOX_OFFICE.3
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/724.ts
+#EXTINF:0,FR: BOX_OFFICE.4
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/725.ts
+#EXTINF:0,FR: BOX_OFFICE.5
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/726.ts
+#EXTINF:0,FR: BOX_OFFICE.6
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/727.ts
+#EXTINF:0,FR: BOX_OFFICE.7
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/728.ts
+#EXTINF:0,FR: BOX_OFFICE.8
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/729.ts
+#EXTINF:0,FR: BOX_OFFICE.9
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/730.ts
+#EXTINF:0,DE: BUNDESLIGA HD 1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/857.ts
+#EXTINF:0,DE: BUNDESLIGA HD 2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/856.ts
+#EXTINF:0,DE: BUNDESLIGA HD 3
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/854.ts
+#EXTINF:0,DE: BUNDESLIGA HD 4
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/853.ts
+#EXTINF:0,DE: BUNDESLIGA HD 5
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/855.ts
+#EXTINF:0,DE: ORF 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/893.ts
+#EXTINF:0,DE: PRO 7 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/891.ts
+#EXTINF:0,DE: Pro7 Maxx HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/890.ts
+#EXTINF:0,DE: RTL 2 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/888.ts
+#EXTINF:0,DE: RTL CRIME
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/887.ts
+#EXTINF:0,DE: RTL 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/886.ts
+#EXTINF:0,DE: RTL LIVING HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/885.ts
+#EXTINF:0,DE: RTL NITRO
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/889.ts
+#EXTINF:0,DE: RTL PASSION HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/884.ts
+#EXTINF:0,DE: SAT1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/881.ts
+#EXTINF:0,DE: SKY  ACTION  HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/878.ts
+#EXTINF:0,DE: SKY ATLANTIC HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/875.ts
+#EXTINF:0,DE: SKY CINEMA 24 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/874.ts
+#EXTINF:0,DE: SKY CINEMA HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/873.ts
+#EXTINF:0,DE: SKY COMEDY HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/877.ts
+#EXTINF:0,DE: SKY EMOTION HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/872.ts
+#EXTINF:0,DE: SKY NOSTALGIE HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/871.ts
+#EXTINF:0,DE: SKY NOSTALGIE HD (de)
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/879.ts
+#EXTINF:0,DE: SKY Select  8 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/860.ts
+#EXTINF:0,DE: SKY Select 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/867.ts
+#EXTINF:0,DE: SKY Select 2 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/866.ts
+#EXTINF:0,DE: SKY Select 3 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/865.ts
+#EXTINF:0,DE: SKY Select 4 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/864.ts
+#EXTINF:0,DE: SKY Select 5 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/863.ts
+#EXTINF:0,DE: SKY Select 6 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/862.ts
+#EXTINF:0,DE: SKY Select 7 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/861.ts
+#EXTINF:0,DE: SKY Select 9 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/859.ts
+#EXTINF:0,DE: SKY SPORT 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/870.ts
+#EXTINF:0,DE: SKY SPORT 2 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/869.ts
+#EXTINF:0,DE: SKY SPORT NEWS HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/868.ts
+#EXTINF:0,DE: SUPER RTL HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/883.ts
+#EXTINF:0,DE: SYFY HD  (de)
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/882.ts
+#EXTINF:0,DE: VOX HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/880.ts
+#EXTINF:0,DE: ZDF
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/895.ts
+#EXTINF:0,DE: ZDF INFO  HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/894.ts
+#EXTINF:0,DE: FOX HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1114.ts
+#EXTINF:0,ES: La 1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/914.ts
+#EXTINF:0,ES: AXN HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/907.ts
+#EXTINF:0,ES: Barca TV
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/915.ts
+#EXTINF:0,ES: Beinsport Liga
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/916.ts
+#EXTINF:0,ES: Canal  Futbol
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/917.ts
+#EXTINF:0,ES: Hollywood
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/906.ts
+#EXTINF:0,ES: Real-madrid
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/918.ts
+#EXTINF:0,ES: Taquilla 1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/912.ts
+#EXTINF:0,ES: Taquilla 2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/911.ts
+#EXTINF:0,ES: Taquilla 3
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/910.ts
+#EXTINF:0,ES: Taquilla 4
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/909.ts
+#EXTINF:0,IT: Rai 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/852.ts
+#EXTINF:0,IT: Rai 2 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/851.ts
+#EXTINF:0,IT: Rai 3 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/850.ts
+#EXTINF:0,IT: Rai 4 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/849.ts
+#EXTINF:0,IT: Rai Gulp
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/848.ts
+#EXTINF:0,IT: Milan Channel
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1077.ts
+#EXTINF:0,IT: Sky Calcio 1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/822.ts
+#EXTINF:0,IT: Sky Calcio 2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/821.ts
+#EXTINF:0,IT: Sky Calcio 3
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1057.ts
+#EXTINF:0,IT: Sky Calcio 5
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1059.ts
+#EXTINF:0,IT: Sky Sport 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/812.ts
+#EXTINF:0,IT: Sky Sport 2 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/811.ts
+#EXTINF:0,IT: Sky Sport 24 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/809.ts
+#EXTINF:0,IT: Sky Sport 3 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/810.ts
+#EXTINF:0,IT: Sky Super Calcio HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/820.ts
+#EXTINF:0,IT: Super Tennis HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/815.ts
+#EXTINF:0,IT: Sky Moto GP HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/813.ts
+#EXTINF:0,IT: Sport Italia
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/816.ts
+#EXTINF:0,IT: Super!
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/817.ts
+#EXTINF:0,IT: Rai Movie HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/847.ts
+#EXTINF:0,IT: Rai Premium
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/844.ts
+#EXTINF:0,IT: Premium Action 24
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/835.ts
+#EXTINF:0,IT: Premium Action HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/832.ts
+#EXTINF:0,IT: Premium Cartoon Network
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/834.ts
+#EXTINF:0,IT: Premium Cinema  24
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/833.ts
+#EXTINF:0,IT: Premium Comedy
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/831.ts
+#EXTINF:0,IT: Premium Emotion
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/829.ts
+#EXTINF:0,IT: Premium Energy HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/828.ts
+#EXTINF:0,IT: Premium Sport 2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/826.ts
+#EXTINF:0,IT: Premium Sport HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/825.ts
+#EXTINF:0,IT: Premium Stories
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/824.ts
+#EXTINF:0,IT: Premium Studio Universal
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/823.ts
+#EXTINF:0,IT: Sky Cinema 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/842.ts
+#EXTINF:0,IT: Sky Cinema Comedy HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/840.ts
+#EXTINF:0,IT: Sky Cinema Hits HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/838.ts
+#EXTINF:0,IT: Sky Cinema Max HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/837.ts
+#EXTINF:0,IT: Sky Cinema Passion HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/836.ts
+#EXTINF:0,IT: Sky Atlantic HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1064.ts
+#EXTINF:0,IT: PRIMAFILA_1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/949.ts
+#EXTINF:0,IT: PRIMAFILA_2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/948.ts
+#EXTINF:0,IT: PRIMAFILA_3
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/947.ts
+#EXTINF:0,IT: PRIMAFILA_4
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/946.ts
+#EXTINF:0,IT: PRIMAFILA_5
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/945.ts
+#EXTINF:0,IT: PRIMAFILA_6
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/944.ts
+#EXTINF:0,IT: PRIMAFILA_7
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/943.ts
+#EXTINF:0,IT: PRIMAFILA_8
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/942.ts
+#EXTINF:0,IT: PRIMAFILA_9
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/941.ts
+#EXTINF:0,IT: PRIMAFILA_10
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/940.ts
+#EXTINF:0,IT: PRIMAFILA_11
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/939.ts
+#EXTINF:0,IT: PRIMAFILA_12
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/938.ts
+#EXTINF:0,IT: PRIMAFILA_13
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/937.ts
+#EXTINF:0,IT: PRIMAFILA_14
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/936.ts
+#EXTINF:0,BE BE SERIE
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3714.ts
+#EXTINF:0,BE BFM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3715.ts
+#EXTINF:0,BE BRUXELLES TV
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3716.ts
+#EXTINF:0,BE CLUB RTL
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3717.ts
+#EXTINF:0,BE LA DEUX
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3718.ts
+#EXTINF:0,BE LA TROIS
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3719.ts
+#EXTINF:0,BE LA UNE HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3720.ts
+#EXTINF:0,BE PLUG RTL
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3721.ts
+#EXTINF:0,BE RTL TVI
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3722.ts
+#EXTINF:0,Cruel 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1115.avi
+#EXTINF:0,Custody 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1116.avi
+#EXTINF:0,Annabelle 2 Creation 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1136.avi
+#EXTINF:0,Cars 3 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1135.avi
+#EXTINF:0,De Pere En Flic 2 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1120.avi
+#EXTINF:0,Jungle 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1128.avi
+#EXTINF:0,K.O 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1130.avi
+#EXTINF:0,Kingsman The Golden Circle 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1122.avi
+#EXTINF:0,Kite 2014
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1123.avi
+#EXTINF:0,La Fille De Brest 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1134.avi
+#EXTINF:0,Les As De La Jungle 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1131.avi
+#EXTINF:0,Mariah Careys All I Want for Christmas Is You 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1126.avi
+#EXTINF:0,Monster Hunt 2015
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1119.avi
+#EXTINF:0,Song To Song 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1132.avi
+#EXTINF:0,The Circle 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1121.avi
+#EXTINF:0,The Fate of the Furious 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1127.avi
+#EXTINF:0,The Legend of Tarzan 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1125.avi
+#EXTINF:0,The Prison 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1133.avi
+#EXTINF:0,The Wall 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1118.avi
+#EXTINF:0,Tunnel 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1124.avi
+#EXTINF:0,Un Profil Pour Deux 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1117.avi
+#EXTINF:0,Valerian and the City of a Thousand Planets 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1129.avi
+#EXTINF:0,47 Meters Down 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1146.avi
+#EXTINF:0,Alibi com 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1149.avi
+#EXTINF:0,Captain Underpants The First Epic Movie 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1138.avi
+#EXTINF:0,Dont Knock Twice 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1137.avi
+#EXTINF:0,Fantastic Beasts and Where to Find Them 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1145.avi
+#EXTINF:0,Kong Skull Island 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1142.avi
+#EXTINF:0,Lion 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1147.avi
+#EXTINF:0,Moana 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1139.avi
+#EXTINF:0,Money 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1143.avi
+#EXTINF:0,Pirates of the Caribbean Dead Men Tell No Tales 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1140.avi
+#EXTINF:0,The Nut Job 2 Nutty by Nature 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1141.avi
+#EXTINF:0,Trespass Against Us 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1148.avi
+#EXTINF:0,Unlocked 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1144.avi
+#EXTINF:0,American Assassin 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1150.avi
+#EXTINF:0,Loue Moi 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1151.avi
+#EXTINF:0,Finding Dory 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1152.avi
+#EXTINF:0,All Nighter 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1161.avi
+#EXTINF:0,Crash Pad 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1160.avi
+#EXTINF:0,Dunkirk 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1163.avi
+#EXTINF:0,Jumanji Welcome to the Jungle 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1164.avi
+#EXTINF:0,12 Days of Giving 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1180.avi
+#EXTINF:0,A Family Man 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1177.avi
+#EXTINF:0,Cessez Le Feu 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1184.avi
+#EXTINF:0,Crash Test Aglae 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1181.avi
+#EXTINF:0,El Camino Christmas 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1170.avi
+#EXTINF:0,Flatliners 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1186.avi
+#EXTINF:0,Home Again 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1185.avi
+#EXTINF:0,Rattrapage 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1173.avi
+#EXTINF:0,Revolt 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1168.avi
+#EXTINF:0,Sleepless 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1175.avi
+#EXTINF:0,Sleight 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1174.mkv
+#EXTINF:0,The LEGO Ninjago Movie 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1171.avi
+#EXTINF:0,The Mountain Between Us 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1182.avi
+#EXTINF:0,The Son Of Bigfoot 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1172.avi
+#EXTINF:0,Victoria and Abdul 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1178.avi
+#EXTINF:0,Wish Upon 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1166.avi
+#EXTINF:0,Lost in Paris 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1183.avi
+#EXTINF:0,Louise en Hiver 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1165.avi
+#EXTINF:0,Mother 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1176.avi
+#EXTINF:0,Overdrive 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1167.avi
+#EXTINF:0,Pottersville 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1179.avi
+#EXTINF:0,Prityazhenie 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1169.avi
+#EXTINF:0,7 Jours Pas Plus 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1192.avi
+#EXTINF:0,Blade Runner 2049 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1193.avi
+#EXTINF:0,Happy Death Day 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1190.avi
+#EXTINF:0,Otez Moi d un Doute 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1191.avi
+#EXTINF:0,SOS Fantomes 2 1989
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1189.avi
+#EXTINF:0,Bonne Pomme 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1217.avi
+#EXTINF:0,Et Au Pire On Se Mariera
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1214.avi
+#EXTINF:0,Goodbye Christopher Robin
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1218.avi
+#EXTINF:0,Jigsaw 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1212.avi
+#EXTINF:0,Les Fausses Confidences
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1215.avi
+#EXTINF:0,My Little Pony The Movie
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1216.avi
+#EXTINF:0,Star Wars Les Derniers Jedi 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1211.mkv
+#EXTINF:0,The Polka King 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1219.avi
+#EXTINF:0,The Shape of Water 2017
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/1213.avi
+#EXTINF:0,Fifty Shades Freed 2018
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2461.avi
+#EXTINF:0,Kung Fu Panda 3 2016
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2479.avi
+#EXTINF:0,A Última Ameaça
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2636.mkv
+#EXTINF:0,Droles De Petites Betes
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2631.avi
+#EXTINF:0,Esquadrao Suicida Acerto de Contas
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2635.mkv
+#EXTINF:0,Hell - A Ira Está Solta
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2634.mkv
+#EXTINF:0,Ressurreição - Retalhos de um Crime
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2633.mkv
+#EXTINF:0,12 Strong
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2639.avi
+#EXTINF:0,Deep Blue Sea 2
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2645.avi
+#EXTINF:0,Den Of Thieves
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2637.avi
+#EXTINF:0,Hungerford 2018
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2654.mkv
+#EXTINF:0,In The Fade
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2649.avi
+#EXTINF:0,O Amanhecer Mais Escuro
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2650.mkv
+#EXTINF:0,Paddington 2
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2651.mkv
+#EXTINF:0,Perdido na Fama
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2653.mkv
+#EXTINF:0,Revanche
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2644.avi
+#EXTINF:0,Spark Uma Aventura Espacial
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2652.mkv
+#EXTINF:0,The Son Of Bigfoot
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2641.avi
+#EXTINF:0,Carterista
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2659.mkv
+#EXTINF:0,Hungerford
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2662.mkv
+#EXTINF:0,O Destino de Uma Nação
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2660.mkv
+#EXTINF:0,Perseguição Criminosa
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2661.mkv
+#EXTINF:0,Letras da Morte
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2663.mkv
+#EXTINF:0,Não Bata na Porta
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2666.mkv
+#EXTINF:0,O Homem Das Cavernas
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2664.mp4
+#EXTINF:0,O Preço
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2665.mkv
+#EXTINF:0,Tout La Haut
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2668.avi
+#EXTINF:0,Tremors A Cold Day In Hell
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2671.avi
+#EXTINF:0,Atormentado Pelo Passado
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2881.mkv
+#EXTINF:0,Aventura Perigosa
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2873.mkv
+#EXTINF:0,Estado de Calamidade
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2872.mkv
+#EXTINF:0,Footloose Ritmo Contagiante
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2877.mkv
+#EXTINF:0,Getaway Plan
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2869.avi
+#EXTINF:0,Maze Runner Correr ou Morrer
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2880.mkv
+#EXTINF:0,Mr et Mme Adelman
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2871.mkv
+#EXTINF:0,Outside In
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2878.mkv
+#EXTINF:0,Pânico na Cabana
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2874.mkv
+#EXTINF:0,Pass Over
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2882.mkv
+#EXTINF:0,Pedro Coelho
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2875.mkv
+#EXTINF:0,Star Wars - 40 ans - Le Documentaire
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2870.mkv
+#EXTINF:0,The Crucifixion
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2879.mkv
+#EXTINF:0,The Stray
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2876.mkv
+#EXTINF:0,As Duas Faces da Lei
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2884.mkv
+#EXTINF:0,Batman Ninja
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2885.mkv
+#EXTINF:0,Maze Runner A Cura Mortal
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2886.mkv
+#EXTINF:0,Proud Mary A Profissional
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2887.mkv
+#EXTINF:0,Psychokinesis
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2888.mkv
+#EXTINF:0,Três Anúncios Para um Crime
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2883.mkv
+#EXTINF:0,A Toda Prova
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2896.mkv
+#EXTINF:0,Na Idade da Pedra
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2893.mkv
+#EXTINF:0,Pronto Falei
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2894.mkv
+#EXTINF:0,Tropas Estelares - A Invasão
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2895.mkv
+#EXTINF:0,Uma Questão de Respeito
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2890.mkv
+#EXTINF:0,vem dançar (1)
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2892.mkv
+#EXTINF:0,vem dançar
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2891.mkv
+#EXTINF:0,25 Anos - Edward Mãos de Tesoura
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2942.mp4
+#EXTINF:0,black panther
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2945.mkv
+#EXTINF:0,Em Pedaços
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2946.mkv
+#EXTINF:0,Interludio de amor
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2943.mkv
+#EXTINF:0,Sem Medo no Coração
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2947.mkv
+#EXTINF:0,Sempre ao Seu Lado
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2948.mkv
+#EXTINF:0,A Forma da Água
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2956.mkv
+#EXTINF:0,Círculo de Fogo 2
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2955.mkv
+#EXTINF:0,Medo Profundo
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2951.mkv
+#EXTINF:0,Meu Romance Perfeito
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2950.mkv
+#EXTINF:0,Na Selva
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2952.mkv
+#EXTINF:0,Perigo Na Montanha
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2954.mkv
+#EXTINF:0,Santo Time
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2953.mkv
+#EXTINF:0,A Princesa Encantada Um Mistério Real
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2966.mkv
+#EXTINF:0,Ano Um
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2964.mkv
+#EXTINF:0,Dias De Trovão
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2969.mkv
+#EXTINF:0,Ingrid Vai para o Oeste
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2963.mkv
+#EXTINF:0,O Estranho Mundo de Jack
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2962.mkv
+#EXTINF:0,Tem Alienígenas no meu Quarto
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2961.mkv
+#EXTINF:0,Terra de Minas
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2960.mkv
+#EXTINF:0,Tomb Raider
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2965.mp4
+#EXTINF:0,Um Lugar Solitario Para Morrer
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2970.mkv
+#EXTINF:0,15h17 Trem para Paris
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2971.mkv
+#EXTINF:0,A Identidade Bourne
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2973.mkv
+#EXTINF:0,A Maldição da Casa Winchester
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2977.mkv
+#EXTINF:0,A Supremacia Bourne
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2980.mkv
+#EXTINF:0,A Woman in Berlin
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2988.avi
+#EXTINF:0,All I Want for Christmas
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2989.mkv
+#EXTINF:0,As Barreiras do Amor
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2983.mkv
+#EXTINF:0,Caindo na Estrada 2 O Jogo da Cerveja
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2982.mkv
+#EXTINF:0,Caindo na Estrada Sem Censura
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2976.mkv
+#EXTINF:0,Céu em Chamas
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2984.mkv
+#EXTINF:0,Here Comes the Boom
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2997.mkv
+#EXTINF:0,Jason Bourne
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2975.mkv
+#EXTINF:0,Joe Somebody
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2994.mp4
+#EXTINF:0,metis nine
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2992.mkv
+#EXTINF:0,O Legado Bourne
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2979.mkv
+#EXTINF:0,O Que Te Faz Mais Forte
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2974.mkv
+#EXTINF:0,O Ultimato Bourne
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2978.mkv
+#EXTINF:0,Psych O Filme
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2981.mkv
+#EXTINF:0,Sarajevo
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2987.mkv
+#EXTINF:0,Super 8
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2972.mkv
+#EXTINF:0,The Presence
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2990.mkv
+#EXTINF:0,Time Toys
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2998.mkv
+#EXTINF:0,Trama Fantasma
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/2985.mkv
+#EXTINF:0,As Aventuras de Paddington
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/3005.mkv
+#EXTINF:0,Assin na Terra Como no Inferno
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/3003.mkv
+#EXTINF:0,Carnivore O Lobisomem de Londres
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/3002.mkv
+#EXTINF:0,Comando Delta
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/3004.mkv
+#EXTINF:0,Nunca Fui Beijada
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/3001.mkv
+#EXTINF:0,O Policial do Futuro
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/3000.mkv
+#EXTINF:0,The Child In Time
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/3007.avi
+#EXTINF:0,Rádio: 94FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3060.ts
+#EXTINF:0,Rádio: Amália
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3061.ts
+#EXTINF:0,Rádio: Antena  2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3062.ts
+#EXTINF:0,Rádio: Antena 1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3050.ts
+#EXTINF:0,Rádio: Antena 3
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3051.ts
+#EXTINF:0,Rádio: Antena Minho
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3063.ts
+#EXTINF:0,Rádio: Cidade FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3052.ts
+#EXTINF:0,Rádio: Clube Lamego
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3064.ts
+#EXTINF:0,Rádio: Douro Marginal
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3065.ts
+#EXTINF:0,Rádio: Festival
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3066.ts
+#EXTINF:0,Rádio: Hiper FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3067.ts
+#EXTINF:0,Rádio: M80
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3053.ts
+#EXTINF:0,Rádio: Marginal
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3068.ts
+#EXTINF:0,Rádio: Nostalgia
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3069.ts
+#EXTINF:0,Rádio: Nova Era
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3054.ts
+#EXTINF:0,Rádio: Onda Viva
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3070.ts
+#EXTINF:0,Rádio: Orbital
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3071.ts
+#EXTINF:0,Rádio: Oxigénio
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3072.ts
+#EXTINF:0,Rádio: Popular FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3073.ts
+#EXTINF:0,Rádio: Radar
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3074.ts
+#EXTINF:0,Rádio: Rádio Comercial
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3055.ts
+#EXTINF:0,Rádio: Rádio Renascença
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3056.ts
+#EXTINF:0,Rádio: Rádio Universidade Coimbra
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3075.ts
+#EXTINF:0,Rádio: Regaee Rádio 808
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3076.ts
+#EXTINF:0,Rádio: RFM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3057.ts
+#EXTINF:0,Rádio: RFM 80
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3077.ts
+#EXTINF:0,Rádio: Rlcb Dance
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3078.ts
+#EXTINF:0,Rádio: Sim
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3079.ts
+#EXTINF:0,Rádio: Smooth FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3058.ts
+#EXTINF:0,Rádio: Super FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3080.ts
+#EXTINF:0,Rádio: Top 80
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3081.ts
+#EXTINF:0,Rádio: Torres Novas FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3082.ts
+#EXTINF:0,Rádio: Total FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3083.ts
+#EXTINF:0,Rádio: Tropical FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3084.ts
+#EXTINF:0,Rádio: TSF
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3059.ts
+#EXTINF:0,Rádio: Ultra FM
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3085.ts
+#EXTINF:0,LU: RTL Télé Lëtzebuerg
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3125.ts
+#EXTINF:0,Festival da Morte
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4009.mkv
+#EXTINF:0,O Jogo do Abismo
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4012.mkv
+#EXTINF:0,Pesadelos Mortais
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4013.mkv
+#EXTINF:0,Swing Kds
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4010.mkv
+#EXTINF:0,Tráfico de Mulheres
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4011.mkv
+#EXTINF:0,Avengers Infinity War
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4042.mp4
+#EXTINF:0,Cars 3
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4044.mp4
+#EXTINF:0,Deadpool 2
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4037.mkv
+#EXTINF:0,Não Vai Dar
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4041.mkv
+#EXTINF:0,O Motorista de Táxi
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4038.mkv
+#EXTINF:0,O Pacote
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4036.mkv
+#EXTINF:0,O Rei da Montanha
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4039.mkv
+#EXTINF:0,Os Estranhos Cacada Noturna
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4040.mkv
+#EXTINF:0,Overboard
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4043.mp4
+#EXTINF:0,Taxi 5
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4045.mkv
+#EXTINF:0,A Baba Tem Que Morrer
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4132.avi
+#EXTINF:0,A Condenação
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4133.mkv
+#EXTINF:0,A Oração Não Falha
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4134.avi
+#EXTINF:0,A Outra Filha
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4135.avi
+#EXTINF:0,Alfa
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4136.mp4
+#EXTINF:0,Anastasia
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4137.mkv
+#EXTINF:0,Cidade Louca
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4138.mkv
+#EXTINF:0,Hurok
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4139.avi
+#EXTINF:0,Jamaica Abaixo de Zero
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4140.mkv
+#EXTINF:0,Mission Impossible Fallout
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4141.mp4
+#EXTINF:0,O Fim da Inocencia
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4142.mp4
+#EXTINF:0,Pedido de Amizade
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4143.mkv
+#EXTINF:0,Tio Drew
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4144.mp4
+#EXTINF:0,A Vilã
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4147.mkv
+#EXTINF:0,Apenas o Começo
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4148.mkv
+#EXTINF:0,Bright
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4149.mkv
+#EXTINF:0,Caos na Prisão
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4150.mkv
+#EXTINF:0,Levantando Poeira
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4151.mkv
+#EXTINF:0,Lowriders A Arte nos Carros
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4152.mkv
+#EXTINF:0,Operação Mekong
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4153.mkv
+#EXTINF:0,Perda Total
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4154.mkv
+#EXTINF:0,the originals
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4157.mkv
+#EXTINF:0,Tomb Raider A Origem
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4155.mkv
+#EXTINF:0,Vingança entre Assassinos
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4156.mkv
+#EXTINF:0,7 Days In Entebbe
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4158.mkv
+#EXTINF:0,Black Water
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4159.avi
+#EXTINF:0,Escape Plan 2 Hades
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4160.avi
+#EXTINF:0,Ferdinand
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4161.avi
+#EXTINF:0,Final Score
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4162.mkv
+#EXTINF:0,Gold
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4163.avi
+#EXTINF:0,Hotel Transylvania 3
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4164.mkv
+#EXTINF:0,In Fondo al Bosco
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4165.avi
+#EXTINF:0,Killing Gunther
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4166.avi
+#EXTINF:0,Les Tuche 3
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4167.avi
+#EXTINF:0,Love Addict
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4168.mkv
+#EXTINF:0,Oceans 8
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4169.mkv
+#EXTINF:0,Revenge
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4170.avi
+#EXTINF:0,Sicario Day of the Soldado
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4171.mkv
+#EXTINF:0,Skyscraper
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4172.mkv
+#EXTINF:0,The Death of Superman
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4173.avi
+#EXTINF:0,The Debt Collector
+http://newtv.dyndns.org:25461/movie/dreamgafsa/0MDd8DE5Qe/4174.avi
+#EXTINF:0,PT: FOX MOVIES
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/245.ts
+#EXTINF:0,Money Heist S01 E01
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4018.avi
+#EXTINF:0,Money Heist S01 E02
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4015.avi
+#EXTINF:0,Money Heist S01 E03
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4017.avi
+#EXTINF:0,Money Heist S01 E04
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4016.avi
+#EXTINF:0,Money Heist S01 E05
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4019.avi
+#EXTINF:0,Money Heist S01 E06
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4021.avi
+#EXTINF:0,Money Heist S01 E07
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4025.avi
+#EXTINF:0,Money Heist S01 E08
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4026.avi
+#EXTINF:0,Money Heist S01 E09
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4014.avi
+#EXTINF:0,Money Heist S01 E10
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4022.avi
+#EXTINF:0,Money Heist S01 E11
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4020.avi
+#EXTINF:0,Money Heist S01 E12
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4023.avi
+#EXTINF:0,Money Heist S01 E13
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4024.avi
+#EXTINF:0,Money Heist S02 E01
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4030.avi
+#EXTINF:0,Money Heist S02 E02
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4034.avi
+#EXTINF:0,Money Heist S02 E03
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4028.avi
+#EXTINF:0,Money Heist S02 E04
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4032.avi
+#EXTINF:0,Money Heist S02 E05
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4031.avi
+#EXTINF:0,Money Heist S02 E06
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4029.avi
+#EXTINF:0,Money Heist S02 E07
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4033.avi
+#EXTINF:0,Money Heist S02 E08
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4027.avi
+#EXTINF:0,Money Heist S02 E09
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4035.avi
+#EXTINF:0,13 Reasons Why S01 E01
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4061.avi
+#EXTINF:0,13 Reasons Why S01 E02
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4055.avi
+#EXTINF:0,13 Reasons Why S01 E03
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4057.avi
+#EXTINF:0,13 Reasons Why S01 E04
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4062.avi
+#EXTINF:0,13 Reasons Why S01 E05
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4059.avi
+#EXTINF:0,13 Reasons Why S01 E06
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4065.avi
+#EXTINF:0,13 Reasons Why S01 E07
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4058.avi
+#EXTINF:0,13 Reasons Why S01 E08
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4064.avi
+#EXTINF:0,13 Reasons Why S01 E09
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4063.avi
+#EXTINF:0,13 Reasons Why S01 E10
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4054.avi
+#EXTINF:0,13 Reasons Why S01 E11
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4060.avi
+#EXTINF:0,13 Reasons Why S01 E12
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4066.avi
+#EXTINF:0,13 Reasons Why S01 E13
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4056.avi
+#EXTINF:0,13 Reasons Why S02 E01
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4067.avi
+#EXTINF:0,13 Reasons Why S02 E02
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4068.avi
+#EXTINF:0,13 Reasons Why S02 E03
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4069.avi
+#EXTINF:0,13 Reasons Why S02 E04
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4070.avi
+#EXTINF:0,13 Reasons Why S02 E05
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4071.avi
+#EXTINF:0,13 Reasons Why S02 E06
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4072.avi
+#EXTINF:0,13 Reasons Why S02 E07
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4073.avi
+#EXTINF:0,13 Reasons Why S02 E08
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4074.avi
+#EXTINF:0,13 Reasons Why S02 E09
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4075.avi
+#EXTINF:0,13 Reasons Why S02 E10
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4076.avi
+#EXTINF:0,13 Reasons Why S02 E11
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4077.avi
+#EXTINF:0,13 Reasons Why S02 E12
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4078.avi
+#EXTINF:0,13 Reasons Why S02 E13
+http://newtv.dyndns.org:25461/series/dreamgafsa/0MDd8DE5Qe/4079.avi
