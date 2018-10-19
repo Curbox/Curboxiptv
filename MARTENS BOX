@@ -1,119 +1,37 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/13128.ts
-#EXTINF:-1,NPO 1 FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5131.ts
-#EXTINF:-1,NPO 2 NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5130.ts
-#EXTINF:-1,NPO 2 FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/6466.ts
-#EXTINF:-1,NPO 3 HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/6465.ts
-#EXTINF:-1,NPO 3 FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5129.ts
-#EXTINF:-1,RTL 4 NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5124.ts
-#EXTINF:-1,RTL 4 HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11403.ts
-#EXTINF:-1,RTL 4 FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/12820.ts
-#EXTINF:-1,RTL 5 HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11402.ts
-#EXTINF:-1,RTL 5 NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5123.ts
-#EXTINF:-1,RTL 5 FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/6464.ts
-#EXTINF:-1,SBS 6 HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5116.ts
-#EXTINF:-1,SBS 6 FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/6462.ts
-#EXTINF:-1,RTL 7 HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11401.ts
-#EXTINF:-1,RTL 7 FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5122.ts
-#EXTINF:-1,RTL 8 FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/12821.ts
-#EXTINF:-1,RTL 8 NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5121.ts
-#EXTINF:-1,SBS 9 NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5115.ts
-#EXTINF:-1,MTV NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5103.ts
-#EXTINF:-1,NPO 3 Extra NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5128.ts
-#EXTINF:-1,Nickelodeon NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5133.ts
-#EXTINF:-1,Nick Toons NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5132.ts
-#EXTINF:-1,Nick JR NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11433.ts
-#EXTINF:-1,Disney Channel NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5153.ts
-#EXTINF:-1,Disney XD FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5152.ts
-#EXTINF:-1,Boomerang NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5161.ts
-#EXTINF:-1,Cartoon Network NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5160.ts
-#EXTINF:-1,Disney Junior NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5151.ts
-#EXTINF:-1,Jim Jam NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11432.ts
-#EXTINF:-1,Baby TV NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5163.ts
-#EXTINF:-1,E! Entertainment HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/13113.ts
-#EXTINF:-1,TLC NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5107.ts
-#EXTINF:-1,RTL Lounge NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5120.ts
-#EXTINF:-1,RTL Z NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5118.ts
-#EXTINF:-1,RTL Crime NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11435.ts
-#EXTINF:-1,Crime and Investigation NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5159.ts
-#EXTINF:-1,Nat Geo Wild HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/13116.ts
-#EXTINF:-1,Nat Geo Wild FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5135.ts
-#EXTINF:-1,Net 5 HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/6468.ts
-#EXTINF:-1,Animal Planet HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11438.ts
-#EXTINF:-1,Horse & Country TV NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11421.ts
-#EXTINF:-1,Travel Channel FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/13111.ts
-#EXTINF:-1,Outdoor Channel FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/13110.ts
-#EXTINF:-1,Fine Living NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11436.ts
-#EXTINF:-1,24 Kitchen HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5164.ts
-#EXTINF:-1,Food Network NL
-http://185.180.15.200:8080/live/kabir/kabir1234/13109.ts
-#EXTINF:-1,Food Network FHD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11437.ts
-#EXTINF:-1,MTV Brand New NL
-http://185.180.15.200:8080/live/kabir/kabir1234/13106.ts
-#EXTINF:-1,MTV Hits NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11431.ts
-#EXTINF:-1,MTV Music 24 NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5102.ts
-#EXTINF:-1,Xite HD NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5101.ts
-#EXTINF:-1,SLAM! NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11396.ts
-#EXTINF:-1,TV 538 NL
-http://185.180.15.200:8080/live/kabir/kabir1234/5106.ts
-#EXTINF:-1,The Q You NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11394.ts
-#EXTINF:-1,100% NL TV NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11430.ts
-#EXTINF:-1,TV Oranje NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11391.ts
-#EXTINF:-1,Stingray LiteTV NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11395.ts
-#EXTINF:-1,Mezzo NL
-http://185.180.15.200:8080/live/kabir/kabir1234/11418.ts
+EXTINF:-1,NL:FoxSport2
+http://195.154.134.236:9000/live/alaa1/alaa1/14429.ts
+EXTINF:-1,NL:FoxSport3
+http://195.154.134.236:9000/live/alaa1/alaa1/14428.ts
+EXTINF:-1,NL:FoxSport4
+http://195.154.134.236:9000/live/alaa1/alaa1/14427.ts
+EXTINF:-1,NL:Nickelodeon
+http://195.154.134.236:9000/live/alaa1/alaa1/14437.ts
+EXTINF:-1,NL:Look TV
+http://195.154.134.236:9000/live/alaa1/alaa1/14533.ts
+EXTINF:-1,NL:Omroep Brabant
+http://195.154.134.236:9000/live/alaa1/alaa1/14523.ts
+EXTINF:-1,NL:omroep ml
+http://195.154.134.236:9000/live/alaa1/alaa1/14540.ts
+EXTINF:-1,NL:Omroep Venlo
+http://195.154.134.236:9000/live/alaa1/alaa1/14535.ts
+EXTINF:-1,NL:omroepede
+http://195.154.134.236:9000/live/alaa1/alaa1/14541.ts
+EXTINF:-1,NL:omroepflevoland
+http://195.154.134.236:9000/live/alaa1/alaa1/14536.ts
+EXTINF:-1,NL:omroepwest
+http://195.154.134.236:9000/live/alaa1/alaa1/14517.ts
+EXTINF:-1,NL:orts
+http://195.154.134.236:9000/live/alaa1/alaa1/14534.ts
+EXTINF:-1,NL:ORTS Oosterhout
+http://195.154.134.236:9000/live/alaa1/alaa1/14544.ts
+EXTINF:-1,NL:RTV Dordrecht
+http://195.154.134.236:9000/live/alaa1/alaa1/14538.ts
+EXTINF:-1,NL:RTV Purmerend
+http://195.154.134.236:9000/live/alaa1/alaa1/14539.ts
+EXTINF:-1,NL:rtvkatwijk
+http://195.154.134.236:9000/live/alaa1/alaa1/14518.ts
+EXTINF:-1,NL:salto 2
+http://195.154.134.236:9000/live/alaa1/alaa1/14519.ts
+EXTINF:-1,NL:salto1
+http://195.154.134.236:9000/live/alaa1/alaa1/14520.ts
