@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, CBA
-http://190.13.120.111/streams/cba.m3u8
 #EXTINF:-1, HitTv
 http://190.13.120.111/streams/hittv.m3u8
 #EXTINF:-1, NL1
@@ -9,8 +7,6 @@ http://190.13.120.111/streams/nederland1.m3u8
 http://190.13.120.111/streams/rtns.m3u8
 #EXTINF:-1, Telecuracao1
 http://190.13.120.111/streams/telecuracao1.m3u8
-#EXTINF:-1, TCFM
-http://190.13.120.111/streams/telecuracaofm.m3u8
 #EXTINF:-1, BVN
 http://190.13.120.112/streams/bvn.m3u8
 #EXTINF:-1, DIY
@@ -29,8 +25,6 @@ http://190.13.120.113/streams/biography.m3u8
 http://190.13.120.113/streams/hgtv.m3u8
 #EXTINF:-1, History
 http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1, Style
-http://190.13.120.113/streams/style.m3u8
 #EXTINF:-1, Syfy
 http://190.13.120.113/streams/syfy.m3u8
 #EXTINF:-1, Babytv
@@ -47,8 +41,6 @@ http://190.13.120.114/streams/tnt.m3u8
 http://190.13.120.115/streams/disneyph.m3u8
 #EXTINF:-1, DisneyXD
 http://190.13.120.115/streams/disneyxd.m3u8
-#EXTINF:-1, NBC
-http://190.13.120.115/streams/nbc.m3u8
 #EXTINF:-1, Outdoor Channel
 http://190.13.120.115/streams/outdoor.m3u8
 #EXTINF:-1, TBS
@@ -71,8 +63,6 @@ http://190.13.120.117/streams/discoverycivilization.m3u8
 http://190.13.120.117/streams/discoveryhome.m3u8
 #EXTINF:-1, Discovery Science
 http://190.13.120.117/streams/discoveryscience.m3u8
-#EXTINF:-1, G4
-http://190.13.120.117/streams/g4.m3u8
 #EXTINF:-1, Much Music
 http://190.13.120.117/streams/muchmusic.m3u8
 #EXTINF:-1, National Geographic
@@ -85,8 +75,6 @@ http://190.13.120.118/streams/cnn.m3u8
 http://190.13.120.118/streams/cnnespanol.m3u8
 #EXTINF:-1, TruTV
 http://190.13.120.118/streams/trutv.m3u8
-#EXTINF:-1, Universal
-http://190.13.120.118/streams/universal.m3u8
 #EXTINF:-1, Warner Channel
 http://190.13.120.118/streams/warnerchannel.m3u8
 #EXTINF:-1, Glitz
@@ -133,8 +121,6 @@ http://190.13.120.123/streams/foxsoccer.m3u8
 http://190.13.120.123/streams/speed.m3u8
 #EXTINF:-1, Euro Sport1
 http://190.13.120.124/streams/eurosport1.m3u8
-#EXTINF:-1, Euro Sport2
-http://190.13.120.124/streams/eurosport2.m3u8
 #EXTINF:-1, Fox Deportes
 http://190.13.120.124/streams/foxdeportes.m3u8
 #EXTINF:-1, Golf-SD
