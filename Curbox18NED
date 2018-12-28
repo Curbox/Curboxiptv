@@ -175,10 +175,4 @@ https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
 #EXTINF:-1 tvg-id="USTV" tvg-name="BET.us" tvg-logo="http://theurbanbuzz.com/wp-content/uploads/2016/04/bet-logo.jpg" group-title="USA TV", BET HD
 http://vapi.vaders.tv/play/8246.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
 
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Hype TV - Caribbean" tvg-logo="http://www.hypetvjam.com/wp-content/uploads/2017/09/2.png" group-title="Caribbean",CR | Hype TV - Caribbean
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/12536.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Hype TV - Caribbean" tvg-logo="http://www.hypetvjam.com/wp-content/uploads/2017/09/2.png" group-title="Caribbean",CR | Hype TV - Caribbean
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/12536.ts
 
-#EXTINF:-1,Tele Aruba
-http://194.88.105.92:8000/live/android/devices/120.ts
