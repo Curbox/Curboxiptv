@@ -142,4 +142,7 @@ http://190.13.120.125/streams/tcm.m3u8
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1, ABC News (stream 2)
-
+#EXTINF:-1,MEXICO:Las Estrellas (Geo)
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1,MEXICO:Las Estrellas [-2]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
