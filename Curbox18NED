@@ -151,3 +151,5 @@ http://tvpremiumhd.club/lista-gratuita/212819/on/lo/317.m3u8
 http://tvpremiumhd.club/lista-gratuita/212819/tv/v/2920
 #EXTINF:-1 tvg-id="" tvg-name="AZMUNDO HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="LATINOS",AZMUNDO HD
 http://tvpremiumhd.club/lista-gratuita/212819/tv/v/2919
+#EXTINF:-1 tvg-name="Weather Channel" tvg-logo="https://i.imgur.com/ydCqNYb.jpg" group-title="INTERNACIONAL",Weather Channel
+http://tvpremiumhd.club/lista-gratuita/212819/weatherchannel.m3u8
