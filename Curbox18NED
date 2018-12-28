@@ -197,10 +197,8 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
  
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 #EXTINF:0,DISCOVERY CIVILIZATION HD
- 
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY TURBO
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
+
 
 #EXTINF:0,TLNOVELAS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
