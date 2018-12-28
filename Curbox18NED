@@ -143,13 +143,5 @@ http://190.13.120.125/streams/tcm.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1, ABC News (stream 2)
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CINE",TNT Series
-http://tvpremiumhd.club/lista-gratuita/212819/on/lo/266.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INFANTIL",Nickelodeon (Nick)
-http://tvpremiumhd.club/lista-gratuita/212819/on/lo/317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZCORAZON HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="LATINOS",AZCORAZON HD
-http://tvpremiumhd.club/lista-gratuita/212819/tv/v/2920
-#EXTINF:-1 tvg-id="" tvg-name="AZMUNDO HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="LATINOS",AZMUNDO HD
-http://tvpremiumhd.club/lista-gratuita/212819/tv/v/2919
-#EXTINF:-1 tvg-name="Weather Channel" tvg-logo="https://i.imgur.com/ydCqNYb.jpg" group-title="INTERNACIONAL",Weather Channel
-http://tvpremiumhd.club/lista-gratuita/212819/weatherchannel.m3u8
+#EXTINF:-1 tvg-id="USTV" tvg-name="DC.us" tvg-logo="https://exstreamist.com/wp-content/uploads/2017/05/Watch-Discovery-Channel-Online.jpg" group-title="USA TV", Discovery Channel HD
+http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
