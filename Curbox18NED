@@ -172,7 +172,8 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO", TV Cuatro 4.1 | HD
 https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
 
-
+#EXTINF:-1,BET
+http://198.251.99.4:8764/hls/m3u8/228-2001.m3u8
 
 
 
