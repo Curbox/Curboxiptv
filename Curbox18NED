@@ -188,3 +188,11 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="NOTÍCIAS", CANAL ONCE
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w776573390_b1300000_slesp.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CR | Hype TV - Caribbean" tvg-logo="http://www.hypetvjam.com/wp-content/uploads/2017/09/2.png" group-title="Caribbean",CR | Hype TV - Caribbean
+http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/12536.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CR | TEN/Cricket - Jamaica" tvg-logo="http://content.osn.com/bob/745x419/tencricketlogol_20180214010558.jpg" group-title="Caribbean",CR | TEN/Cricket - Jamaica
+http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/12533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CR | TIN TV -Trinidad" tvg-logo="http://www.theislamicnetwork.org/images/frontpage/mainheader.jpg" group-title="Caribbean",CR | TIN TV -Trinidad
+http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/13181.ts
