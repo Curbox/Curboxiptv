@@ -196,3 +196,6 @@ http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/12536.ts
 http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/12533.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CR | TIN TV -Trinidad" tvg-logo="http://www.theislamicnetwork.org/images/frontpage/mainheader.jpg" group-title="Caribbean",CR | TIN TV -Trinidad
 http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/13181.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CR | TTEN -Trinidad" tvg-logo="http://www.ttentv.com/images/logo.png" group-title="Caribbean",CR | TTEN -Trinidad
+http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/13179.ts
