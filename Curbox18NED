@@ -141,12 +141,8 @@ http://190.13.120.125/streams/foxnews.m3u8
 http://190.13.120.125/streams/tcm.m3u8
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,LA_SD:TNT SERIES
-http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4905.m3u8
-#EXTINF:-1,LA_SD:TELENOVELAS
-http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/4999.m3u8
-#EXTINF:-1 tvg-id="USTV" tvg-name="BET.us" tvg-logo="http://theurbanbuzz.com/wp-content/uploads/2016/04/bet-logo.jpg" group-title="USA TV 2", BET HD
-http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7770
+
+
 #EXTINF:-1 tvg-id="USTV" tvg-name="Lifetime.us" tvg-logo="https://yt3.ggpht.com/-B6Ik9Cag8L8/AAAAAAAAAAI/AAAAAAAAAAA/SjhIYodiMRQ/s900-c-k-no/photo.jpg" group-title="USA TV", Lifetime HD
 http://vapi.vaders.tv/play/2465.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
  
@@ -176,26 +172,7 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO", TV Cuatro 4.1 | HD
 https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
 
-#EXTINF:0,Telemundo Opcion 1
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1, Azteca + Plus
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,AZTECA UNO
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png", Azteca Trece
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1,MEXICO:ADN40
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="NOTÍCIAS", CANAL ONCE
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w776573390_b1300000_slesp.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Hype TV - Caribbean" tvg-logo="http://www.hypetvjam.com/wp-content/uploads/2017/09/2.png" group-title="Caribbean",CR | Hype TV - Caribbean
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/12536.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="CR | TEN/Cricket - Jamaica" tvg-logo="http://content.osn.com/bob/745x419/tencricketlogol_20180214010558.jpg" group-title="Caribbean",CR | TEN/Cricket - Jamaica
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/12533.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | TIN TV -Trinidad" tvg-logo="http://www.theislamicnetwork.org/images/frontpage/mainheader.jpg" group-title="Caribbean",CR | TIN TV -Trinidad
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/13181.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="CR | TTEN -Trinidad" tvg-logo="http://www.ttentv.com/images/logo.png" group-title="Caribbean",CR | TTEN -Trinidad
-http://iptv-area-51.tv:2095/live/WHMCSMAG:WHMCS:15952/w2Z7ibx7O8/13179.ts
+
