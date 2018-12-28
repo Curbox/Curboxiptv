@@ -141,7 +141,8 @@ http://190.13.120.125/streams/foxnews.m3u8
 http://190.13.120.125/streams/tcm.m3u8
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
+#EXTINF:-1 tvg-id="USTV" tvg-name="BET.us" tvg-logo="http://theurbanbuzz.com/wp-content/uploads/2016/04/bet-logo.jpg" group-title="USA TV 2", BET HD
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7770
 #EXTINF:-1 tvg-id="USTV" tvg-name="Lifetime.us" tvg-logo="https://yt3.ggpht.com/-B6Ik9Cag8L8/AAAAAAAAAAI/AAAAAAAAAAA/SjhIYodiMRQ/s900-c-k-no/photo.jpg" group-title="USA TV", Lifetime HD
 http://vapi.vaders.tv/play/2465.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
  
