@@ -173,3 +173,18 @@ http://vapi.vaders.tv/play/2460.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwY
 http://vapi.vaders.tv/play/2780.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
 #EXTINF:-1 tvg-id="USTV" tvg-name="WeatherChannel.us" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/the-weather-channel-jpg_orig.jpg" group-title="USA TV",Weather Channel HD {Main}
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO", TV Cuatro 4.1 | HD
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+
+#EXTINF:0,Telemundo Opcion 1
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1, Azteca + Plus
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AZTECA UNO
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png", Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,MEXICO:ADN40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="NOTÍCIAS", CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w776573390_b1300000_slesp.m3u8
