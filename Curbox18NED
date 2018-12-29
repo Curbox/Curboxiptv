@@ -258,94 +258,19 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
  
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 
-TeleAruba, rtmp://201.229.0.51/livepkgr/livestream?adbe-live-event=liveevent
-Nos Pais TV (Curaçao), rtmp://highvolume04.streampartner.nl/nos_pais_24_7/_definst_/mp4:livestream.stream_720p
-CBA TV(Curaçao), rtmp://192.241.158.93/CBAtelevision_curacao/57e8164f84be0
-RTNS, http://190.13.120.111/streams/rtns.m3u8
-NosTV Bonaire, http://panchito13.flashmediacast.com:2087/live/livestream/playlist.m3u8
-CCN TV6(Trinidad and Tobago), http://live.field59.com/tv6/ngrp:tv61_all/playlist.m3u8
+#EXTINF:-1,TeleAruba, 
+rtmp://201.229.0.51/livepkgr/livestream?adbe-live-event=liveevent
+#EXTINF:-1,Nos Pais TV (Curaçao), 
+rtmp://highvolume04.streampartner.nl/nos_pais_24_7/_definst_/mp4:livestream.stream_720p
+#EXTINF:-1, CBA TV(Curaçao), 
+rtmp://192.241.158.93/CBAtelevision_curacao/57e8164f84be0
+#EXTINF:-1, RTNS 
+http://190.13.120.111/streams/rtns.m3u8
+#EXTINF:-1, NosTV Bonaire, 
+http://panchito13.flashmediacast.com:2087/live/livestream/playlist.m3u8
+CCN TV6(Trinidad and Tobago), 
+http://live.field59.com/tv6/ngrp:tv61_all/playlist.m3u8
 IBN TV(Trinidad and Tobago), http://iphone-streaming.ustream.tv/uhls/19009420/streams/live/iphone/playlist.m3u8
-GAYELLE TV(Trinidad and Tobago), http://iphone-streaming.ustream.tv/uhls/17076042/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, GAYELLE TV(Trinidad and Tobago), 
+http://iphone-streaming.ustream.tv/uhls/17076042/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,|NL*| VERONICA DISNEY XD
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/29625
-#EXTINF:-1,|NL*| Veronica/DisneyXD HD
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/29624
-#EXTINF:-1,|NL*| Ziggo Sport Golf
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/29703
-#EXTINF:-1,|NL*| ZIGGO SPORT RACING
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/29702
-#EXTINF:-1,|NL*| ZIGGO SPORT SELECT
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/29623
-#EXTINF:-1,|NL*| Ziggo Sport Select HD
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/29704
-#EXTINF:-1,|NL*| Ziggo Sport Voetbal
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/29705
-#EXTINF:-1,|NL| Ziggo Sport.Voetbal
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20489
-#EXTINF:-1,|NL| Ziggo Sport Select HD
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20490
-#EXTINF:-1,|NL| Ziggo Sport Select FHD 1080
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20450
-#EXTINF:-1,|NL| Ziggo Sport Racing
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20491
-#EXTINF:-1,|NL| Ziggo Sport Golf
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20492
-#EXTINF:-1,|NL| Ziggo Sport Extra2
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20493
-#EXTINF:-1,|NL| Ziggo Sport Extra1
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20494
-#EXTINF:-1,|NL| Veronica Disney XD
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20495
-#EXTINF:-1,|NL| Veronica / Disney XD FHD 1080
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20451
-#EXTINF:-1,|NL| Travel Channel HD
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20452
-#EXTINF:-1,|NL| TLC
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20496
-#EXTINF:-1,|NL| SYFY
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20497
-#EXTINF:-1,|NL| Sport 1 Voetbal
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20453
-#EXTINF:-1,|NL| SBS6 FHD 1080
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20454
-#EXTINF:-1,|NL| SBS 9
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20455
-#EXTINF:-1,|NL| SBS 6
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20498
-#EXTINF:-1,|NL| RTL Z
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20456
-#EXTINF:-1,|NL| RTL lounge
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20499
-#EXTINF:-1,|NL| RTL 8 FHD 1080
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20457
-#EXTINF:-1,|NL| RTL 8
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20500
-#EXTINF:-1,|NL| RTL 7 FHD 1080
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20458
-#EXTINF:-1,|NL| RTL 7
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20501
-#EXTINF:-1,|NL| Animal Planet
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20527
-#EXTINF:-1,|NL| RTL 5
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20502
-#EXTINF:-1,|NL| RTL 4 FHD
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20460
-#EXTINF:-1,|NL| RTL 4
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20503
-#EXTINF:-1,|NL| NPO Zapp Xtra
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20461
-#EXTINF:-1,|NL| NPO Politiek
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20462
-#EXTINF:-1,|NL| NPO 3 FHD 1080
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20463
-#EXTINF:-1,|NL| NPO 3
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20504
-#EXTINF:-1,|NL| NPO 2 FHD 1080
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20464
-#EXTINF:-1,|NL| NPO 2
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20505
-#EXTINF:-1,|NL| NPO 1 HD
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20465
-#EXTINF:-1,|NL| NPO 1
-http://npro.one-iptv.com:25443/live/lukasdgb7/GrIaknZrsC/20506
