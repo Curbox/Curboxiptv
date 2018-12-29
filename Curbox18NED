@@ -264,5 +264,6 @@ http://highvolume04.streampartner.nl/nos_pais_24_7/_definst_/mp4:livestream.stre
 #EXTINF:-1, RTNS 
 http://190.13.120.111/streams/rtns.m3u8
 
-
+#EXTINF:-1, CANAL 5 TELEMUNDO
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
