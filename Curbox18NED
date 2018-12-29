@@ -142,38 +142,13 @@ http://190.13.120.125/streams/tcm.m3u8
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
-
-#EXTINF:-1 tvg-id="USTV" tvg-name="Lifetime.us" tvg-logo="https://yt3.ggpht.com/-B6Ik9Cag8L8/AAAAAAAAAAI/AAAAAAAAAAA/SjhIYodiMRQ/s900-c-k-no/photo.jpg" group-title="USA TV", Lifetime HD
-http://vapi.vaders.tv/play/2465.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
- 
-#EXTINF:-1 tvg-id="USTV" tvg-name="LMN.us" tvg-logo="https://singleindependentsistah.files.wordpress.com/2010/06/lmn-logo.png" group-title="USA TV", LMN HD
-http://vapi.vaders.tv/play/16705.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0
 #EXTINF:-1 tvg-id="USTV" tvg-name="Cooking Channel" tvg-logo="http://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.347.suffix/1499867576304.jpeg" group-title="USA TV",Cooking Channel HD
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
-#EXTINF:-1 tvg-id="USTV" tvg-name="foodnetwork.us" tvg-logo="https://logonoid.com/images/food-network-logo.png" group-title="USA TV", Food Network HD
-http://vapi.vaders.tv/play/2913.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
-
-#EXTINF:-1 tvg-id="USTV" tvg-name="DC.us" tvg-logo="https://exstreamist.com/wp-content/uploads/2017/05/Watch-Discovery-Channel-Online.jpg" group-title="USA TV", Discovery Channel HD
-http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
-
-#EXTINF:-1 tvg-id="USTV" tvg-name="MTV.us" tvg-logo="https://thelala.com/wp-content/uploads/2015/10/mtv-pink.jpg" group-title="USA TV", MTV HD
-http://vapi.vaders.tv/play/12901.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
-
-#EXTINF:-1 tvg-id="USTV" tvg-name="NatGeoWild.us" tvg-logo="http://ifelicious.com/wp-content/uploads/2009/10/FOX_NatGeoWild_logo.jpg" group-title="USA TV", Nat Geo Wild FHD
-http://vapi.vaders.tv/play/50910.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
- 
-#EXTINF:-1 tvg-id="USTV" tvg-name="NickHD.us" tvg-logo="http://img03.deviantart.net/9c3d/i/2017/045/6/6/nickelodeon_logo_concept_2_by_logofanatic-daz2rgp.png" group-title="USA TV", Nick FHD
-http://vapi.vaders.tv/play/2460.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
- #EXTINF:-1 tvg-id="USTV" tvg-name="Sundance.us" tvg-logo="https://cdn1.thr.com/sites/default/files/2014/01/sundancetv_logo_a_l.jpg" group-title="USA TV", Sundance HD
-http://vapi.vaders.tv/play/2780.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
 #EXTINF:-1 tvg-id="USTV" tvg-name="WeatherChannel.us" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/the-weather-channel-jpg_orig.jpg" group-title="USA TV",Weather Channel HD {Main}
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO", TV Cuatro 4.1 | HD
 https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USTV" tvg-name="BET.us" tvg-logo="http://theurbanbuzz.com/wp-content/uploads/2016/04/bet-logo.jpg" group-title="USA TV", BET HD
-http://vapi.vaders.tv/play/8246.m3u8?token=eyJ1c2VybmFtZSI6IjV5b3NyNXV2aXgiLCJwYXNzd29yZCI6InRlbXAwOTc4In0=
 
 #EXTINF:0,FOX SPORTS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
@@ -198,12 +173,8 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 #EXTINF:0,DISCOVERY CIVILIZATION HD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-
-
 #EXTINF:0,TLNOVELAS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
- 
- 
 #EXTINF:0,tve
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
  
@@ -243,11 +214,9 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
 #EXTINF:0,FOX CLASSIC
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
  
- 
 #EXTINF:0,SONY
  
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
- 
  
 #EXTINF:0,WB
  
@@ -257,10 +226,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 #EXTINF:0,UNIVERSAL HD
  
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-
-#EXTINF:-1, Nos Pais TV 
-http://highvolume04.streampartner.nl/nos_pais_24_7/_definst_/mp4:livestream.stream_720p
-
 #EXTINF:-1, RTNS 
 http://190.13.120.111/streams/rtns.m3u8
 
