@@ -258,78 +258,13 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
  
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 
-#EXTINF:-1 group-title="Canais filmes",HBO
-http://tv.factoryiptv.com:80/live/2231/2231/37087.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO 2
-http://tv.factoryiptv.com:80/live/2231/2231/37086.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO 2 FHD
-http://tv.factoryiptv.com:80/live/2231/2231/38423.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO 2 HD
-http://tv.factoryiptv.com:80/live/2231/2231/36966.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO Family
-http://tv.factoryiptv.com:80/live/2231/2231/37085.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO Family HD
-http://tv.factoryiptv.com:80/live/2231/2231/36965.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO FHD
-http://tv.factoryiptv.com:80/live/2231/2231/38422.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO HD
-http://tv.factoryiptv.com:80/live/2231/2231/36964.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO Plus
-http://tv.factoryiptv.com:80/live/2231/2231/37084.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO PLUS E
-http://tv.factoryiptv.com:80/live/2231/2231/37083.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO Plus HD
-http://tv.factoryiptv.com:80/live/2231/2231/36963.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO Signature
-http://tv.factoryiptv.com:80/live/2231/2231/37082.ts
- 
-#EXTINF:-1 group-title="Canais filmes",HBO Signature HD
-http://tv.factoryiptv.com:80/live/2231/2231/36962.ts
- 
-#EXTINF:-1 group-title="Canais",History
-http://tv.factoryiptv.com:80/live/2231/2231/37081.ts
- 
-#EXTINF:-1 group-title="Canais",History 2 HD
-http://tv.factoryiptv.com:80/live/2231/2231/36961.ts
+TeleAruba, rtmp://201.229.0.51/livepkgr/livestream?adbe-live-event=liveevent
+Nos Pais TV (Curaçao), rtmp://highvolume04.streampartner.nl/nos_pais_24_7/_definst_/mp4:livestream.stream_720p
+CBA TV(Curaçao), rtmp://192.241.158.93/CBAtelevision_curacao/57e8164f84be0
+RTNS, http://190.13.120.111/streams/rtns.m3u8
+NosTV Bonaire, http://panchito13.flashmediacast.com:2087/live/livestream/playlist.m3u8
+CCN TV6(Trinidad and Tobago), http://live.field59.com/tv6/ngrp:tv61_all/playlist.m3u8
+IBN TV(Trinidad and Tobago), http://iphone-streaming.ustream.tv/uhls/19009420/streams/live/iphone/playlist.m3u8
+GAYELLE TV(Trinidad and Tobago), http://iphone-streaming.ustream.tv/uhls/17076042/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Canais filmes",Max
-http://tv.factoryiptv.com:80/live/2231/2231/37076.ts
- 
-#EXTINF:-1 group-title="Canais filmes",MAX FHD
-http://tv.factoryiptv.com:80/live/2231/2231/40268.ts
- 
-#EXTINF:-1 group-title="Canais filmes",Max HD
-http://tv.factoryiptv.com:80/live/2231/2231/36913.ts
- 
-#EXTINF:-1 group-title="Canais filmes",MaxPrime
-http://tv.factoryiptv.com:80/live/2231/2231/37075.ts
- 
-#EXTINF:-1 group-title="Canais filmes",MAX PRIME E
-http://tv.factoryiptv.com:80/live/2231/2231/37074.ts
- 
-#EXTINF:-1 group-title="Canais filmes",MaxPrime FHD
-http://tv.factoryiptv.com:80/live/2231/2231/40269.ts
- 
-#EXTINF:-1 group-title="Canais filmes",Max Prime HD
-http://tv.factoryiptv.com:80/live/2231/2231/36912.ts
- 
-#EXTINF:-1 group-title="Canais filmes",Max UP
-http://tv.factoryiptv.com:80/live/2231/2231/37073.ts
- 
-#EXTINF:-1 group-title="Canais filmes",MAX UP FHD
-http://tv.factoryiptv.com:80/live/2231/2231/40270.ts
- 
-#EXTINF:-1 group-title="Canais filmes",Max UP HD
-http://tv.factoryiptv.com:80/live/2231/2231/36911.ts
