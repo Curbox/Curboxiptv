@@ -259,18 +259,19 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 
 #EXTINF:-1,TeleAruba, 
-rtmp://201.229.0.51/livepkgr/livestream?adbe-live-event=liveevent
+http://201.229.0.51/livepkgr/livestream?adbe-live-event=liveevent
 #EXTINF:-1,Nos Pais TV (Curaçao), 
-rtmp://highvolume04.streampartner.nl/nos_pais_24_7/_definst_/mp4:livestream.stream_720p
+http://highvolume04.streampartner.nl/nos_pais_24_7/_definst_/mp4:livestream.stream_720p
 #EXTINF:-1, CBA TV(Curaçao), 
-rtmp://192.241.158.93/CBAtelevision_curacao/57e8164f84be0
+http://192.241.158.93/CBAtelevision_curacao/57e8164f84be0
 #EXTINF:-1, RTNS 
 http://190.13.120.111/streams/rtns.m3u8
 #EXTINF:-1, NosTV Bonaire, 
 http://panchito13.flashmediacast.com:2087/live/livestream/playlist.m3u8
-CCN TV6(Trinidad and Tobago), 
+#EXTINFO:-1, CCN TV6(Trinidad and Tobago), 
 http://live.field59.com/tv6/ngrp:tv61_all/playlist.m3u8
-IBN TV(Trinidad and Tobago), http://iphone-streaming.ustream.tv/uhls/19009420/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, IBN TV(Trinidad and Tobago), 
+http://iphone-streaming.ustream.tv/uhls/19009420/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, GAYELLE TV(Trinidad and Tobago), 
 http://iphone-streaming.ustream.tv/uhls/17076042/streams/live/iphone/playlist.m3u8
 
