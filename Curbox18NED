@@ -139,8 +139,7 @@ http://190.13.120.125/streams/foxbusiness.m3u8
 http://190.13.120.125/streams/foxnews.m3u8
 #EXTINF:-1, TCM
 http://190.13.120.125/streams/tcm.m3u8
-#EXTINF:-1, ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
 
 #EXTINF:-1 tvg-id="USTV" tvg-name="Cooking Channel" tvg-logo="http://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.347.suffix/1499867576304.jpeg" group-title="USA TV",Cooking Channel HD
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
@@ -247,21 +246,5 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CINE",MAX PRIME HD
-http://tvpremiumhd.club/lista-gratuita/182829/tv/v/2747
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CINE",MAX UP HD
-http://tvpremiumhd.club/lista-gratuita/182829/tv/v/2765
 
-#EXTINF:-1 tvg-id="" tvg-name="AZCORAZON HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",AZ CORAZON HD
-http://tvpremiumhd.club/lista-gratuita/182829/tv/v/2734
-#EXTINF:-1 tvg-id="" tvg-name="AZMUNDO HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",AZMUNDO HD
-http://tvpremiumhd.club/lista-gratuita/182829/tv/v/2755
 
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",PASIONES HD
-http://tvpremiumhd.club/lista-gratuita/182829/tv/v/2751
-
-#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE HD" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CINE",SUNDANCE HD
-http://tvpremiumhd.club/lista-gratuita/182829/tv/v/2573
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TRWxTH" group-title="ENTRETENIMIENTO",MIAMI TV
-http://tvpremiumhd.club/lista-gratuita/182829/on/in/nvg8m7.m3u8
