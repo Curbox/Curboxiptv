@@ -246,11 +246,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1,Azteca 13
-http://iptv.premiumtutv.com/canal_12_azteca13.m3u8
-#EXTINF:-1,Azteca 7
-http://iptv.premiumtutv.com/canal_13_azteca7.m3u8
-
 #EXTINF:0,AZCORAZON
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
 
@@ -268,8 +263,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 #EXTINF:0,AZCLIC HD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
 
-#EXTINF:0,CINECANAL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
 #EXTINF:0,CINEMAX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
 #EXTINF:0,TNT
