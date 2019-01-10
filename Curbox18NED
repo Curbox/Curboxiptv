@@ -269,6 +269,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
 #EXTINF:0,EDGE
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
 
-#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Channels",MTV LIVE
-http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”https://www.rikstv.no/globalassets/upload/logo/tv-kanaler/mtv_hvit.png” group-title=”ENTRETENIMIENTO”,MTV
+http://edge7.telesport.pw/live/mtv/index.m3u8
 
