@@ -140,7 +140,6 @@ http://190.13.120.125/streams/foxnews.m3u8
 #EXTINF:-1, TCM
 http://190.13.120.125/streams/tcm.m3u8
 
-
 #EXTINF:-1 tvg-id="USTV" tvg-name="Cooking Channel" tvg-logo="http://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.347.suffix/1499867576304.jpeg" group-title="USA TV",Cooking Channel HD
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
@@ -274,5 +273,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Latino Latin America" tvg-logo="" group-title="Latin America",MTV Latino Latin America
 http://portal.siptveu.com:8080/SindimarH/yY159XYkCD/5349
+
 #EXTINF:-1 tvg-id="" tvg-name="BET VIP UK" tvg-logo="" group-title="United Kingdom VIP",BET VIP UK
 http://portal.siptveu.com:8080/SindimarH/yY159XYkCD/10747
