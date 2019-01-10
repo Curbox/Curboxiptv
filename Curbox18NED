@@ -272,3 +272,5 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
 
 #EXTINF:0,MTV HD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Latino Latin America" tvg-logo="" group-title="Latin America",MTV Latino Latin America
+http://portal.siptveu.com:8080/SindimarH/yY159XYkCD/5349
