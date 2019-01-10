@@ -154,66 +154,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:0,ESPN HD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
  
-#EXTINF:0,ESPN +
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
- 
-#EXTINF:0,ESPN + HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
- #EXTINF:0, DISCOVERY SCIENCE
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
- 
-#EXTINF:0, DISCOVERY SCIENCE HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY CIVILIZATION
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY CIVILIZATION HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-
-
-#EXTINF:0,FOX
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
- 
-#EXTINF:0,FOX HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
- 
-#EXTINF:0,FOX LIFE
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
-#EXTINF:0,FOX 1 HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
- 
-#EXTINF:0,FOX ACTION HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:0,FOX MOVIES HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
- 
-#EXTINF:0,FOX CINEMA
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
- 
-#EXTINF:0,FOX CLASSIC
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
- 
-#EXTINF:0,SONY
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
- 
-#EXTINF:0,WB
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
- 
- 
-#EXTINF:0,UNIVERSAL HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 #EXTINF:-1, RTNS 
 http://190.13.120.111/streams/rtns.m3u8
 
