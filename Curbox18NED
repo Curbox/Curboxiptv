@@ -269,57 +269,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
 #EXTINF:0,EDGE
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
 
-#EXTINF:0,MTV Hits HD
-http://peerstv.ufanet.ru/tv/1278/index.m3u8
-#EXTINF:0,MTV Rocks HD
-http://peerstv.ufanet.ru/tv/1279/index.m3u8
-#EXTINF:0,MTV Dance HD
-http://peerstv.ufanet.ru/tv/1280/index.m3u8
-#EXTINF:0,VH-1 Europe HD
-http://peerstv.ufanet.ru/tv/1281/index.m3u8
-#EXTINF:0,VH-1 Classic HD
-http://peerstv.ufanet.ru/tv/1282/index.m3u8
-#EXTINF: 0, MTV Hits
-http://92.50.181.6/tv/1278/index.m3u8
-#EXTINF: 0, MTV Rocks
-http://92.50.181.6/tv/1279/index.m3u8
-#EXTINF: 0, MTV Dance
-http://92.50.181.6/tv/1280/index.m3u8
-#EXTINF: 0, VH 1
-http://92.50.181.6/tv/1282/index.m3u8
-#EXTINF: 0, VH 1 Classic
-http://92.50.181.6/tv/1282/index.m3u8
-#EXTINF: 0, MTV Russ
-http://92.50.181.6/tv/1284/index.m3u8
-#EXTINF:0,Mtv |Brasil|
-rtmp://109.200.202.124/live playpath=hbohd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/mtv.html live=1
-#EXTINF:0,Mtv |USA|
-http://93.184.221.133/00573D/1345/1345-0.m3u8
-#EXTINF:0,Mtv |UK|
-http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist.m3u8?wowzasessionid=1420207062
-#EXTINF:0,Mtv |Espanha|
-http://81.92.105.132:5555/pl.m3u8?channel=516
-#EXTINF:0,Mtv |China|
-http://103.242.13.67:5000/nn_live.ts?id=mtvchina-m-h
-#EXTINF:0,Mtv Music |Italia|
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8 ?
-#EXTINF:0,Mtv Rocks
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
-#EXTINF:0,Mtv Dance |Espanha|
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
-#EXTINF:0,Mtv Hits
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
-#EXTINF:0,Mtv LIVE
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8 ?
-#EXTINF:0,Vh1 Classic
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
-#EXTINF:0,Vh1 |Espanha|
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8 ?
-#EXTINF:0,Vh1 |Russia|
-http://178.49.132.73/streaming/vh1/tvrec/playlist.m3u8
-#EXTINF:0,Vh1+1
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
-#EXTINF:0,MCM Top
-http://178.49.132.73/streaming/mcmtop/tvrec/playlist.m3u8
-#EXTINF:0,MCM TOP HD
-http://peerstv.ufanet.ru/tv/1161/index.m3u8
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Channels",MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+
