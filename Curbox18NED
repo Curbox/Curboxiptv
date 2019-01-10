@@ -171,17 +171,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 #EXTINF:0,DISCOVERY CIVILIZATION HD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-#EXTINF:0,TLNOVELAS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
-#EXTINF:0,tve
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
- 
- 
-#EXTINF:0,CANAL DE LAS ESTRELLAS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
- 
-#EXTINF:0,CANAL DE LAS ESTRELLAS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+
 
 #EXTINF:0,FOX
  
@@ -245,30 +235,5 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:0,AZCORAZON
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
 
-#EXTINF:0,AZTECA 7 HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
-
-#EXTINF:0,E!
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
-#EXTINF:0,GARAGE TV
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
-
-#EXTINF:0,LIFETIME
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
-
-#EXTINF:0,AZCLIC HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
-
-#EXTINF:0,CINEMAX
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
-#EXTINF:0,TNT
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
-#EXTINF:0,EDGE
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo=”https://www.rikstv.no/globalassets/upload/logo/tv-kanaler/mtv_hvit.png” group-title=”ENTRETENIMIENTO”,MTV
-http://edge7.telesport.pw/live/mtv/index.m3u8
 
