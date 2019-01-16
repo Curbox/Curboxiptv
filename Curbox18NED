@@ -169,7 +169,25 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="TELENOVELAS" tvg-logo="" group-title="Latinos",TELENOVELAS
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/1713.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-name="Garage TV" tvg-logo="https://i.imgur.com/DoGSBuU.jpg" group-title="ARGENTINA",Garage TV
+http://tvpremiumhd.club/lista-gratuita/green/garagetv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", MiamiTV Internacional
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/.m3u8
+#EXTINF:0,HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:0 tvg-id="ABCNews.al" group-title="USA",ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Western 4U
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1,Investigation Discovery
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,CaribVision
+https://uvodscp-lh.akamaihd.net/i/rjrCvtv_1@79763/master.m3u8?fluxustv.m3u8
+#EXTINF:-1,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
