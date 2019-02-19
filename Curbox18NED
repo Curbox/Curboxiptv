@@ -217,3 +217,5 @@ http://88.216.48.14:80/mtveurope/live.m3u8
 http://new.iptvbr.tv:8080/live/MeuApp/rYr39IIvPf/31.m3u?|user-agent-exoPlayer 4.0.0
 #EXTINF:0 tvg-id="Maxprimehd.br" group-title="unsorted",MAX PRIME FHD
 http://new.iptvbr.tv:8080/live/MeuApp/rYr39IIvPf/1599.m3u?|user-agent-exoPlayer 4.0.0
+#EXTINF:-1,TKE ARUBA
+http://201.229.0.51:1935/Telearuba/telearuba/chunklist_w2100608425.m3u8
