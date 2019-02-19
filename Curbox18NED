@@ -211,3 +211,9 @@ http://161.0.157.9/PLTV/88888888/224/3221226845/03.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1,TeleAruba
 rtmp://201.229.0.51/livepkgr/livestream1
+#EXTINF:-1,Tele Curacao
+http://194.88.105.92:8000/live/android/devices/119.ts
+#EXTINF:-1,Tele Aruba
+http://194.88.105.92:8000/live/android/devices/120.ts
+#EXTINF:-1,TeleCuracao Original
+http://194.88.105.92:8000/live/android/devices/143.ts
