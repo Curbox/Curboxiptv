@@ -209,13 +209,3 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226845/03.m3u8
 #EXTINF:0,  FLOW SPORTS1
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1,MTV 
-http://80.87.208.158:80/dna-70-tv-pc.m3u8
-#EXTINF:0,  MTV Europa
-http://88.216.48.14:80/mtveurope/live.m3u8
-#EXTINF:0 tvg-id="Hbohd.br" group-title="unsorted",HBO FHD
-http://new.iptvbr.tv:8080/live/MeuApp/rYr39IIvPf/31.m3u?|user-agent-exoPlayer 4.0.0
-#EXTINF:0 tvg-id="Maxprimehd.br" group-title="unsorted",MAX PRIME FHD
-http://new.iptvbr.tv:8080/live/MeuApp/rYr39IIvPf/1599.m3u?|user-agent-exoPlayer 4.0.0
-#EXTINF:-1,TKE ARUBA
-http://201.229.0.51:1935/Telearuba/telearuba/chunklist_w2100608425.m3u8
