@@ -217,3 +217,5 @@ http://194.88.105.92:8000/live/android/devices/119.ts
 http://194.88.105.92:8000/live/android/devices/120.ts
 #EXTINF:-1,TeleCuracao Original
 http://194.88.105.92:8000/live/android/devices/143.ts
+#EXTINF:-1,BET
+http://194.88.105.92:8000/live/android/devices/152.ts
