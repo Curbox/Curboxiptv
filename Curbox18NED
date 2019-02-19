@@ -209,3 +209,5 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226845/03.m3u8
 #EXTINF:0,  FLOW SPORTS1
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="Carribean" tvg-logo="http://www.arubaraceway.com/wp-content/uploads/2010/04/telearuba.gif",Tele Aruba
+rtmp://201.229.0.51/livepkgr/livestream3 app=livepkgr/ pageUrl=http://setar.aw/ppv/secure/auth/telearuba_live?layout=4&color=0xe7e7e7&autoPlay=true swfUrl=http://setar.aw/ppv/jwplayer/jwplayer.flash.swf tcUrl=rtmp://201.229.0.51/livepkgr/ playPath=livestream3 live=1
