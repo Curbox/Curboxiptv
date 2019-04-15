@@ -219,3 +219,9 @@ http://194.88.105.92:8000/live/android/devices/120.ts
 http://194.88.105.92:8000/live/android/devices/143.ts
 #EXTINF:-1,BET
 http://194.88.105.92:8000/live/android/devices/152.ts
+#EXTINF:-1,BET
+http://194.88.105.92:8000/live/android/devices/152.ts
+#EXTINF:-1,lifetime
+http://194.88.105.92:8000/live/android/devices/155.ts
+#EXTINF:-1,MLB
+http://194.88.105.92:8000/live/android/devices/154.ts
