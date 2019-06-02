@@ -1,11 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="LA: TELENOVELAS" tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="LATINO",LA: TELENOVELAS
-http://dibo.live:8080/rlzegPa2uZ/aP24qLa5UX/68692
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: CACANAL DE LAS ESTRELLAS HD" tvg-logo="
-http://vod.landiptv.live/files/t20.png" group-title="LATINO",LA: CACANAL DE LAS ESTRELLAS HD
-
-#EXTINF:0,Canal De Las Estrellas Mexico
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zzqEti.png" group-title="* Fluxus.tv > Play On!",* Fluxus.tv
 https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
