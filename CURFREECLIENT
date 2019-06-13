@@ -1,4 +1,172 @@
 #EXTM3U
+#EXTINF:0,TELEMUNDO 39
+https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
+#EXTINF:0,Estrella TV
+https://video05-lax.streamup.com/app/vic_manz02s-stream/playlist.m3u8
+#EXTINF:0,Vevo TV 1 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8 
+#EXTINF:0,Vevo TV 2 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8 
+#EXTINF:0,Vevo TV 3 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1, CBA
+http://190.13.120.111/streams/cba.m3u8
+#EXTINF:-1, HitTv
+http://190.13.120.111/streams/hittv.m3u8
+#EXTINF:-1, NL1
+http://190.13.120.111/streams/nederland1.m3u8
+#EXTINF:-1, Rtns
+http://190.13.120.111/streams/rtns.m3u8
+#EXTINF:-1, Telecuracao1
+http://190.13.120.111/streams/telecuracao1.m3u8
+#EXTINF:-1, TCFM
+http://190.13.120.111/streams/telecuracaofm.m3u8
+#EXTINF:-1, BVN
+http://190.13.120.112/streams/bvn.m3u8
+#EXTINF:-1, DIY
+http://190.13.120.112/streams/diy.m3u8
+#EXTINF:-1, Food
+http://190.13.120.112/streams/food.m3u8
+#EXTINF:-1, NL2
+http://190.13.120.112/streams/nederland2.m3u8
+#EXTINF:-1, NL3
+http://190.13.120.112/streams/nederland3.m3u8
+#EXTINF:-1, A&E
+http://190.13.120.113/streams/ae.m3u8
+#EXTINF:-1, Biography
+http://190.13.120.113/streams/biography.m3u8
+#EXTINF:-1, HGTV
+http://190.13.120.113/streams/hgtv.m3u8
+#EXTINF:-1, History
+http://190.13.120.113/streams/history.m3u8
+#EXTINF:-1, Style
+http://190.13.120.113/streams/style.m3u8
+#EXTINF:-1, Syfy
+http://190.13.120.113/streams/syfy.m3u8
+#EXTINF:-1, Babytv
+http://190.13.120.114/streams/babytv.m3u8
+#EXTINF:-1, BBCAmerica
+http://190.13.120.114/streams/bbcamerica.m3u8
+#EXTINF:-1, BBCWord
+http://190.13.120.114/streams/bbcworld.m3u8
+#EXTINF:-1, FX
+http://190.13.120.114/streams/fx.m3u8
+#EXTINF:-1, TNT
+http://190.13.120.114/streams/tnt.m3u8
+#EXTINF:-1, DisneyPH
+http://190.13.120.115/streams/disneyph.m3u8
+#EXTINF:-1, DisneyXD
+http://190.13.120.115/streams/disneyxd.m3u8
+#EXTINF:-1, NBC
+http://190.13.120.115/streams/nbc.m3u8
+#EXTINF:-1, Outdoor Channel
+http://190.13.120.115/streams/outdoor.m3u8
+#EXTINF:-1, TBS
+http://190.13.120.115/streams/tbs.m3u8
+#EXTINF:-1, Animal Planet
+http://190.13.120.116/streams/animal.m3u8
+#EXTINF:-1, Boomerang
+http://190.13.120.116/streams/boomerang.m3u8
+#EXTINF:-1, Cartoon Network
+http://190.13.120.116/streams/cartoon.m3u8
+#EXTINF:-1, Discovery
+http://190.13.120.116/streams/discovery.m3u8
+#EXTINF:-1, Discovery Kids
+http://190.13.120.116/streams/discoverykids.m3u8
+#EXTINF:-1, ToonCast
+http://190.13.120.116/streams/tooncast.m3u8
+#EXTINF:-1, Discovery Civilization
+http://190.13.120.117/streams/discoverycivilization.m3u8
+#EXTINF:-1, Discovery Home
+http://190.13.120.117/streams/discoveryhome.m3u8
+#EXTINF:-1, Discovery Science
+http://190.13.120.117/streams/discoveryscience.m3u8
+#EXTINF:-1, G4
+http://190.13.120.117/streams/g4.m3u8
+#EXTINF:-1, Much Music
+http://190.13.120.117/streams/muchmusic.m3u8
+#EXTINF:-1, National Geographic
+http://190.13.120.117/streams/natgeo.m3u8
+#EXTINF:-1, AXN
+http://190.13.120.118/streams/axn.m3u8
+#EXTINF:-1, CNN
+http://190.13.120.118/streams/cnn.m3u8
+#EXTINF:-1, CNN Espanol
+http://190.13.120.118/streams/cnnespanol.m3u8
+#EXTINF:-1, TruTV
+http://190.13.120.118/streams/trutv.m3u8
+#EXTINF:-1, Universal
+http://190.13.120.118/streams/universal.m3u8
+#EXTINF:-1, Warner Channel
+http://190.13.120.118/streams/warnerchannel.m3u8
+#EXTINF:-1, Glitz
+http://190.13.120.119/streams/glitz.m3u8
+#EXTINF:-1, Liv
+http://190.13.120.119/streams/liv.m3u8
+#EXTINF:-1, PIX
+http://190.13.120.119/streams/pix.m3u8
+#EXTINF:-1, Sony
+http://190.13.120.119/streams/sonyspin.m3u8
+#EXTINF:-1, Space
+http://190.13.120.119/streams/space.m3u8
+#EXTINF:-1, Canal Fox
+http://190.13.120.120/streams/canalfox.m3u8
+#EXTINF:-1, Cine Canal
+http://190.13.120.120/streams/cinecanal.m3u8
+#EXTINF:-1, Discovery Travel
+http://190.13.120.120/streams/discoverytravel.m3u8
+#EXTINF:-1, Infinito
+http://190.13.120.120/streams/infinito.m3u8
+#EXTINF:-1, ISAT
+http://190.13.120.120/streams/isat.m3u8
+#EXTINF:-1, TFZ
+http://190.13.120.120/streams/tfz.m3u8
+#EXTINF:-1, ABC-HD
+http://190.13.120.121/streams/abc-hd.m3u8
+#EXTINF:-1, ESPN Caribbean
+http://190.13.120.121/streams/espncaribbean.m3u8
+#EXTINF:-1, Studio Universal
+http://190.13.120.121/streams/studiouniversal.m3u8
+#EXTINF:-1, CBS-HD
+http://190.13.120.122/streams/cbs-hd.m3u8
+#EXTINF:-1, FOX-HD
+http://190.13.120.122/streams/fox-hd.m3u8
+#EXTINF:-1, Discovery Turbo
+http://190.13.120.123/streams/discoveryturbo.m3u8
+#EXTINF:-1, ESPN2
+http://190.13.120.123/streams/espn2.m3u8
+#EXTINF:-1, ESPN2 Caribbean
+http://190.13.120.123/streams/espn2caribbean.m3u8
+#EXTINF:-1, FOX Soccer
+http://190.13.120.123/streams/foxsoccer.m3u8
+#EXTINF:-1, SPEED
+http://190.13.120.123/streams/speed.m3u8
+#EXTINF:-1, Euro Sport1
+http://190.13.120.124/streams/eurosport1.m3u8
+#EXTINF:-1, Euro Sport2
+http://190.13.120.124/streams/eurosport2.m3u8
+#EXTINF:-1, Fox Deportes
+http://190.13.120.124/streams/foxdeportes.m3u8
+#EXTINF:-1, Golf-SD
+http://190.13.120.124/streams/golf-sd.m3u8
+#EXTINF:-1, Sony
+http://190.13.120.124/streams/sony.m3u8
+#EXTINF:-1, Bloomberg
+http://190.13.120.125/streams/bloomberg.m3u8
+#EXTINF:-1, CNN HLN
+http://190.13.120.125/streams/cnnhln.m3u8
+#EXTINF:-1, CNN International
+http://190.13.120.125/streams/cnnint.m3u8
+#EXTINF:-1, FOX Businness
+http://190.13.120.125/streams/foxbusiness.m3u8
+#EXTINF:-1, FOX News
+http://190.13.120.125/streams/foxnews.m3u8
+#EXTINF:-1, TCM
+http://190.13.120.125/streams/tcm.m3u8
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1, ABC News (stream 2)
+
 #EXTM3U para mas listas iptv visita www.premiumtv.org
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",premium tv le ofrece esta lista gratis [Apoyanos con unos clics en la publicidad]
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
