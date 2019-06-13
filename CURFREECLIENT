@@ -6,45 +6,6 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0,1Music (Hungary)
 http://stream.1music.hu/stream/1music.m3u8
 
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPOR 4
-http://ciciturk.nl:8000/live/TEST/TEST/54.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPOR 5
-http://ciciturk.nl:8000/live/TEST/TEST/55.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 2 K
-http://ciciturk.nl:8000/live/TEST/TEST/34.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 HD
-http://ciciturk.nl:8000/live/TEST/TEST/46.m3u8
-
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 (1+)
-http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/258.m3u8
-
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 (1+)
-http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/259.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3
-http://ciciturk.nl:8000/live/TEST/TEST/12.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 (1+)
-http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/260.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4
-http://ciciturk.nl:8000/live/TEST/TEST/24.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4 (1+)
-http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/261.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5
-http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/262.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 1
-http://ciciturk.nl:8000/live/TEST/TEST/42.m3u8
-
-#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 2
-http://ciciturk.nl:8000/live/TEST/TEST/43.m3u8
-
-#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT
-http://ciciturk.nl:8000/live/TEST/TEST/20.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT EXTRA
-http://ciciturk.nl:8000/live/TEST/TEST/30.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL
-http://ciciturk.nl:8000/live/TEST/TEST/19.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL EXTRA
-http://ciciturk.nl:8000/live/TEST/TEST/29.m3u8
-
 #EXTINF:0,24/7 Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:0,24H TV
