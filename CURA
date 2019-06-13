@@ -1,5 +1,4 @@
-#EXTINF:0 group-title="NL: Netherlands",NL: EXTREME SPORTS
-http://mondial.cybergroup.top:8000/live/aprile/aprile123/18480.ts
+
 #EXTINF:0 group-title="NL: Netherlands",NL: FOX SPOR 4
 http://ciciturk.nl:8000/live/TEST/TEST/54.m3u8
 #EXTINF:0 group-title="NL: Netherlands",NL: FOX SPOR 5
@@ -8,12 +7,10 @@ http://ciciturk.nl:8000/live/TEST/TEST/55.m3u8
 http://ciciturk.nl:8000/live/TEST/TEST/34.m3u8
 #EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 HD
 http://ciciturk.nl:8000/live/TEST/TEST/46.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1
-http://mondial.cybergroup.top:8000/live/aprile/aprile123/18475.ts
+
 #EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 (1+)
 http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/258.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2
-http://mondial.cybergroup.top:8000/live/aprile/aprile123/18474.ts
+
 #EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 (1+)
 http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/259.m3u8
 #EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3
@@ -28,12 +25,10 @@ http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/261.m3u8
 http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/262.m3u8
 #EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 1
 http://ciciturk.nl:8000/live/TEST/TEST/42.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 1 (1+)
-http://mondial.cybergroup.top:8000/live/aprile/aprile123/18456.ts
+
 #EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 2
 http://ciciturk.nl:8000/live/TEST/TEST/43.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 2 (1+)
-http://mondial.cybergroup.top:8000/live/aprile/aprile123/18455.ts
+
 #EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT
 http://ciciturk.nl:8000/live/TEST/TEST/20.m3u8
 #EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT EXTRA
