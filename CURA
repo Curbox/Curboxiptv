@@ -1,261 +1,44 @@
-#EXTM3U
-#EXTINF:-1, HitTv
-http://190.13.120.111/streams/hittv.m3u8
-#EXTINF:-1, NL1
-http://190.13.120.111/streams/nederland1.m3u8
-#EXTINF:-1, Rtns
-http://190.13.120.111/streams/rtns.m3u8
-#EXTINF:-1, Telecuracao1
-http://190.13.120.111/streams/telecuracao1.m3u8
-#EXTINF:-1, BVN
-http://190.13.120.112/streams/bvn.m3u8
-#EXTINF:-1, DIY
-http://190.13.120.112/streams/diy.m3u8
-#EXTINF:-1, Food
-http://190.13.120.112/streams/food.m3u8
-#EXTINF:-1, NL2
-http://190.13.120.112/streams/nederland2.m3u8
-#EXTINF:-1, NL3
-http://190.13.120.112/streams/nederland3.m3u8
-#EXTINF:-1, A&E
-http://190.13.120.113/streams/ae.m3u8
-#EXTINF:-1, Biography
-http://190.13.120.113/streams/biography.m3u8
-#EXTINF:-1, HGTV
-http://190.13.120.113/streams/hgtv.m3u8
-#EXTINF:-1, History
-http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1, Syfy
-http://190.13.120.113/streams/syfy.m3u8
-#EXTINF:-1, Babytv
-http://190.13.120.114/streams/babytv.m3u8
-#EXTINF:-1, BBCAmerica
-http://190.13.120.114/streams/bbcamerica.m3u8
-#EXTINF:-1, BBCWord
-http://190.13.120.114/streams/bbcworld.m3u8
-#EXTINF:-1, FX
-http://190.13.120.114/streams/fx.m3u8
-#EXTINF:-1, TNT
-http://190.13.120.114/streams/tnt.m3u8
-#EXTINF:-1, DisneyPH
-http://190.13.120.115/streams/disneyph.m3u8
-#EXTINF:-1, DisneyXD
-http://190.13.120.115/streams/disneyxd.m3u8
-#EXTINF:-1, Outdoor Channel
-http://190.13.120.115/streams/outdoor.m3u8
-#EXTINF:-1, TBS
-http://190.13.120.115/streams/tbs.m3u8
-#EXTINF:-1, Animal Planet
-http://190.13.120.116/streams/animal.m3u8
-#EXTINF:-1, Boomerang
-http://190.13.120.116/streams/boomerang.m3u8
-#EXTINF:-1, Cartoon Network
-http://190.13.120.116/streams/cartoon.m3u8
-#EXTINF:-1, Discovery
-http://190.13.120.116/streams/discovery.m3u8
-#EXTINF:-1, Discovery Kids
-http://190.13.120.116/streams/discoverykids.m3u8
-#EXTINF:-1, ToonCast
-http://190.13.120.116/streams/tooncast.m3u8
-#EXTINF:-1, Discovery Civilization
-http://190.13.120.117/streams/discoverycivilization.m3u8
-#EXTINF:-1, Discovery Home
-http://190.13.120.117/streams/discoveryhome.m3u8
-#EXTINF:-1, Discovery Science
-http://190.13.120.117/streams/discoveryscience.m3u8
-#EXTINF:-1, Much Music
-http://190.13.120.117/streams/muchmusic.m3u8
-#EXTINF:-1, National Geographic
-http://190.13.120.117/streams/natgeo.m3u8
-#EXTINF:-1, AXN
-http://190.13.120.118/streams/axn.m3u8
-#EXTINF:-1, CNN
-http://190.13.120.118/streams/cnn.m3u8
-#EXTINF:-1, CNN Espanol
-http://190.13.120.118/streams/cnnespanol.m3u8
-#EXTINF:-1, TruTV
-http://190.13.120.118/streams/trutv.m3u8
-#EXTINF:-1, Warner Channel
-http://190.13.120.118/streams/warnerchannel.m3u8
-#EXTINF:-1, Glitz
-http://190.13.120.119/streams/glitz.m3u8
-#EXTINF:-1, Liv
-http://190.13.120.119/streams/liv.m3u8
-#EXTINF:-1, PIX
-http://190.13.120.119/streams/pix.m3u8
-#EXTINF:-1, Sony
-http://190.13.120.119/streams/sonyspin.m3u8
-#EXTINF:-1, Space
-http://190.13.120.119/streams/space.m3u8
-#EXTINF:-1, Canal Fox
-http://190.13.120.120/streams/canalfox.m3u8
-#EXTINF:-1, Cine Canal
-http://190.13.120.120/streams/cinecanal.m3u8
-#EXTINF:-1, Discovery Travel
-http://190.13.120.120/streams/discoverytravel.m3u8
-#EXTINF:-1, Infinito
-http://190.13.120.120/streams/infinito.m3u8
-#EXTINF:-1, ISAT
-http://190.13.120.120/streams/isat.m3u8
-#EXTINF:-1, TFZ
-http://190.13.120.120/streams/tfz.m3u8
-#EXTINF:-1, ABC-HD
-http://190.13.120.121/streams/abc-hd.m3u8
-#EXTINF:-1, ESPN Caribbean
-http://190.13.120.121/streams/espncaribbean.m3u8
-#EXTINF:-1, Studio Universal
-http://190.13.120.121/streams/studiouniversal.m3u8
-#EXTINF:-1, CBS-HD
-http://190.13.120.122/streams/cbs-hd.m3u8
-#EXTINF:-1, FOX-HD
-http://190.13.120.122/streams/fox-hd.m3u8
-#EXTINF:-1, Discovery Turbo
-http://190.13.120.123/streams/discoveryturbo.m3u8
-#EXTINF:-1, ESPN2
-http://190.13.120.123/streams/espn2.m3u8
-#EXTINF:-1, ESPN2 Caribbean
-http://190.13.120.123/streams/espn2caribbean.m3u8
-#EXTINF:-1, FOX Soccer
-http://190.13.120.123/streams/foxsoccer.m3u8
-#EXTINF:-1, SPEED
-http://190.13.120.123/streams/speed.m3u8
-#EXTINF:-1, Euro Sport1
-http://190.13.120.124/streams/eurosport1.m3u8
-#EXTINF:-1, Fox Deportes
-http://190.13.120.124/streams/foxdeportes.m3u8
-#EXTINF:-1, Golf-SD
-http://190.13.120.124/streams/golf-sd.m3u8
-#EXTINF:-1, Sony
-http://190.13.120.124/streams/sony.m3u8
-#EXTINF:-1, Bloomberg
-http://190.13.120.125/streams/bloomberg.m3u8
-#EXTINF:-1, CNN HLN
-http://190.13.120.125/streams/cnnhln.m3u8
-#EXTINF:-1, CNN International
-http://190.13.120.125/streams/cnnint.m3u8
-#EXTINF:-1, FOX Businness
-http://190.13.120.125/streams/foxbusiness.m3u8
-#EXTINF:-1, FOX News
-http://190.13.120.125/streams/foxnews.m3u8
-#EXTINF:-1, TCM
-http://190.13.120.125/streams/tcm.m3u8
-
-
-#EXTINF:-1 tvg-id="USTV" tvg-name="Cooking Channel" tvg-logo="http://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.347.suffix/1499867576304.jpeg" group-title="USA TV",Cooking Channel HD
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-
-#EXTINF:-1 tvg-id="USTV" tvg-name="WeatherChannel.us" tvg-logo="https://razorbladetv.weebly.com/uploads/7/7/9/8/77989064/the-weather-channel-jpg_orig.jpg" group-title="USA TV",Weather Channel HD {Main}
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO", TV Cuatro 4.1 | HD
-https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-
-#EXTINF:0,FOX SPORTS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
-
-#EXTINF:0,ESPN HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
- 
-#EXTINF:0,ESPN +
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
- 
-#EXTINF:0,ESPN + HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
- #EXTINF:0, DISCOVERY SCIENCE
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
- 
-#EXTINF:0, DISCOVERY SCIENCE HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY CIVILIZATION
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY CIVILIZATION HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-#EXTINF:0,TLNOVELAS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
-#EXTINF:0,tve
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
- 
- 
-#EXTINF:0,CANAL DE LAS ESTRELLAS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
- 
-#EXTINF:0,CANAL DE LAS ESTRELLAS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-
-#EXTINF:0,FOX
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
- 
-#EXTINF:0,FOX HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
- 
-#EXTINF:0,FOX LIFE
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
-#EXTINF:0,FOX 1 HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
- 
-#EXTINF:0,FOX ACTION HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:0,FOX MOVIES HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
- 
-#EXTINF:0,FOX CINEMA
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
- 
-#EXTINF:0,FOX CLASSIC
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
- 
-#EXTINF:0,SONY
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
- 
-#EXTINF:0,WB
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
- 
- 
-#EXTINF:0,UNIVERSAL HD
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:-1, RTNS 
-http://190.13.120.111/streams/rtns.m3u8
-
-#EXTINF:-1, CANAL 5 TELEMUNDO
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528" group-title="USA",Fox Premium Comedy (Asia)
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC (Opt-1)
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="USA",Sky News America
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="UK",Flow Sports
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (English)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-
-#EXTINF:-1,Azteca 13
-http://iptv.premiumtutv.com/canal_12_azteca13.m3u8
-#EXTINF:-1,Azteca 7
-http://iptv.premiumtutv.com/canal_13_azteca7.m3u8
-
-#EXTINF:-1,MAX
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/111.m3u8
-#EXTINF:-1,MAX PRIME
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/112.m3u8
-#EXTINF:-1,MAX PRIME E
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/353.m3u8
-#EXTINF:-1,MAX UP
-http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/66.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: EXTREME SPORTS
+http://mondial.cybergroup.top:8000/live/aprile/aprile123/18480.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPOR 4
+http://ciciturk.nl:8000/live/TEST/TEST/54.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPOR 5
+http://ciciturk.nl:8000/live/TEST/TEST/55.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 2 K
+http://ciciturk.nl:8000/live/TEST/TEST/34.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 HD
+http://ciciturk.nl:8000/live/TEST/TEST/46.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1
+http://mondial.cybergroup.top:8000/live/aprile/aprile123/18475.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 (1+)
+http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/258.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2
+http://mondial.cybergroup.top:8000/live/aprile/aprile123/18474.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 (1+)
+http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/259.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3
+http://ciciturk.nl:8000/live/TEST/TEST/12.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 (1+)
+http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/260.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4
+http://ciciturk.nl:8000/live/TEST/TEST/24.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4 (1+)
+http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/261.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5
+http://51.15.2.143:8000/live/cciptvmultimedia/fgfhfsdtghj/262.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 1
+http://ciciturk.nl:8000/live/TEST/TEST/42.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 1 (1+)
+http://mondial.cybergroup.top:8000/live/aprile/aprile123/18456.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 2
+http://ciciturk.nl:8000/live/TEST/TEST/43.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 2 (1+)
+http://mondial.cybergroup.top:8000/live/aprile/aprile123/18455.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT
+http://ciciturk.nl:8000/live/TEST/TEST/20.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT EXTRA
+http://ciciturk.nl:8000/live/TEST/TEST/30.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL
+http://ciciturk.nl:8000/live/TEST/TEST/19.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL EXTRA
+http://ciciturk.nl:8000/live/TEST/TEST/29.m3u8
